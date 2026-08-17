@@ -19,7 +19,7 @@ const BOT_CONFIG = {
       "Ask about cramps, headaches, back pain, nausea, pain relief, and when pain may need medical attention.",
     file: "pain_fixed.json",
     examples: [
-      "Why are my cramps worse at night?",
+      "How common is period pain among women?",
       "How can I relieve period pain at home?",
       "When is period pain more serious than normal?"
     ]
