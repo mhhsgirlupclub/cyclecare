@@ -3,12 +3,12 @@ const BOT_CONFIG = {
     title: "Mood Chatbot",
     icon: "😊",
     description:
-      "Ask about PMS, PMDD, anxiety, sadness, irritability, emotional changes, stress, and mood patterns.",
+      "Ask about the various emotional symptoms of PMS, such as mood swings, PMDD, anxiety, sadness, irritability, etc.",
     file: "mood_fixed.json",
     examples: [
-      "Why am I so emotional before my period?",
-      "Are mood swings normal during my period?",
-      "What is PMDD?"
+      "What are the common emotional experiences of PMS?",
+      "Can my emotions change throughout my cycle?",
+      "How can I tell the difference between normal mood swings and PMDD?"
     ]
   },
 
@@ -20,7 +20,7 @@ const BOT_CONFIG = {
     file: "pain_fixed.json",
     examples: [
       "How common is period pain among women?",
-      "How can I relieve period pain at home?",
+      "What is a period headache?",
       "When is period pain more serious than normal?"
     ]
   },
@@ -46,8 +46,8 @@ const BOT_CONFIG = {
     file: "changes.json",
     examples: [
       "Why do I get acne before my period?",
-      "Why do I feel bloated before my period?",
-      "Why do I feel exhausted before my period?"
+      "Why do I get constipation before my period?",
+      "Why do I gain weight before my period?"
     ]
   }
 };
