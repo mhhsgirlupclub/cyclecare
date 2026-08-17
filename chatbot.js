@@ -16,7 +16,7 @@ const BOT_CONFIG = {
     title: "Pain Chatbot",
     icon: "🩹",
     description:
-      "Ask about cramps, headaches, back pain, nausea, pain relief, and when pain may need medical attention.",
+      "Ask about the various kinds of pain felt during periods, such as cramps, headaches, lower back pain, etc.",
     file: "pain_fixed.json",
     examples: [
       "How common is period pain among women?",
