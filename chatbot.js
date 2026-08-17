@@ -42,7 +42,7 @@ const BOT_CONFIG = {
     title: "Physical Changes Chatbot",
     icon: "🌸",
     description:
-      "Ask about acne, bloating, fatigue, digestion, appetite, body aches, and other physical changes.",
+      "Ask about the various physical symptoms of PMS, such as acne, bloating, fatigue, constipation, etc.",
     file: "changes.json",
     examples: [
       "Why do I get acne before my period?",
@@ -365,9 +365,6 @@ async function openBot(botKey) {
 
     document
       .getElementById("status")
-      .textContent =
-      currentData.qa.length +
-      " questions available";
 
 
     document
@@ -380,7 +377,7 @@ async function openBot(botKey) {
       "bot",
       "Hi! I'm the " +
       config.title +
-      " in Cycle Care. Ask me a question."
+      " in CycleCare. Ask me a question."
     );
 
 
@@ -572,7 +569,7 @@ function clearChat() {
       "bot",
       "Hi! I'm the " +
       BOT_CONFIG[currentBot].title +
-      " in Cycle Care. Ask me a question."
+      " in CycleCare. Ask me a question."
     );
 
   }
@@ -589,7 +586,7 @@ document.addEventListener(
   function () {
 
     console.log(
-      "Cycle Care JavaScript loaded successfully."
+      "CycleCare JavaScript loaded successfully."
     );
 
 
