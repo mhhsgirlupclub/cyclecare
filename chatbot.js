@@ -32,9 +32,9 @@ const BOT_CONFIG = {
       "Ask about the various kinds of period flow, such as heavy or light flow, irregular bleeding, cycle timing, etc.",
     file: "flow.json",
     examples: [
-      "How much is too much period flow?",
+      "What are the signs of a heavy period?",
       "What can cause light periods?",
-      "When should I see a doctor for heavy bleeding?"
+      "What type of treatment will be provided for a heavy menstrual flow?"
     ]
   },
 
