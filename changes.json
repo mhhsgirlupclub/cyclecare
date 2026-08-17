@@ -1,0 +1,1205 @@
+{
+  "category": "physical_changes",
+  "audience": "teens",
+  "global_disclaimer": "I am not a medical professional. This chatbot provides educational information only and does not replace professional medical advice. If physical symptoms are severe, persistent, unusual, or interfering with daily life, speak with a trusted adult or healthcare provider.",
+  "qa": [
+    {
+      "id": 1,
+      "intent": "how_long_is_my_menstrual_cycle",
+      "triggers": [
+        "how long is my menstrual cycle",
+        "long is my menstrual cycle",
+        "menstrual cycle question",
+        "period cycle question",
+        "cycle changes",
+        "duration of long is my menstrual cycle",
+        "how many days long is my menstrual cycle"
+      ],
+      "question": "How long is my menstrual cycle?",
+      "answer": "A typical cycle lasts between 24-38 days, but it may vary from person to person."
+    },
+    {
+      "id": 2,
+      "intent": "what_s_a_menstrual_cycle",
+      "triggers": [
+        "what’s a menstrual cycle",
+        "’s a menstrual cycle",
+        "menstrual cycle question",
+        "period cycle question",
+        "cycle changes"
+      ],
+      "question": "What’s a menstrual cycle?",
+      "answer": "It begins when you get your period or menstruate. This is when you shed the lining of your uterus."
+    },
+    {
+      "id": 3,
+      "intent": "how_long_is_my_period",
+      "triggers": [
+        "how long is my period",
+        "long is my period",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period",
+        "duration of long is my period",
+        "how many days long is my period"
+      ],
+      "question": "How long is my period?",
+      "answer": "Most people who have their period typically have it for 3-7 days."
+    },
+    {
+      "id": 4,
+      "intent": "is_it_normal_for_my_period_to_end_early",
+      "triggers": [
+        "is it normal for my period to end early",
+        "it normal for my period to end early",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period",
+        "should i worry if for my period to end early",
+        "is this common for my period to end early"
+      ],
+      "question": "Is it normal for my period to end early?",
+      "answer": "Yes, it is normal, people often have their period end on the third day."
+    },
+    {
+      "id": 5,
+      "intent": "how_can_i_keep_track_of_my_period",
+      "triggers": [
+        "how can i keep track of my period",
+        "can i keep track of my period",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period",
+        "ways to keep track of my period",
+        "what helps with keep track of my period"
+      ],
+      "question": "How can I keep track of my period?",
+      "answer": "Some ways to keep track of your period: ● Marking a calender ● Use menstrual apps"
+    },
+    {
+      "id": 6,
+      "intent": "what_are_some_physical_changes_during_periods",
+      "triggers": [
+        "what are some physical changes during periods",
+        "are some physical changes during periods",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period"
+      ],
+      "question": "What are some physical changes during periods?",
+      "answer": "● Cramps ● Breast swelling/pain ● Bloating ● Headaches ● Low back pain ● Acne ● Weight gain ● Food cravings ●"
+    },
+    {
+      "id": 7,
+      "intent": "what_are_common_issues_for_periods",
+      "triggers": [
+        "what are common issues for periods",
+        "are common issues for periods",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period"
+      ],
+      "question": "What are common issues for periods?",
+      "answer": "● Skipped periods ● Irregular periods ● Bleeding more than 7 days on period ● Strange changes in heaviness/flow of bleeding"
+    },
+    {
+      "id": 8,
+      "intent": "is_acne_during_a_period_common",
+      "triggers": [
+        "is acne during a period common",
+        "acne during a period common",
+        "period acne",
+        "hormonal acne",
+        "breakouts before period",
+        "pimples around my period",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Is acne during a period common?",
+      "answer": "Yes, acne during a period is completely normal and common! Doctors may prescribe medication to lessen breakouts!"
+    },
+    {
+      "id": 9,
+      "intent": "what_type_of_pimples_are_there",
+      "triggers": [
+        "what type of pimples are there",
+        "type of pimples are there",
+        "period acne",
+        "hormonal acne",
+        "breakouts before period",
+        "pimples around my period"
+      ],
+      "question": "What type of pimples are there?",
+      "answer": "● Blackheads: When there’s an open clogged pore, it often seems black. ● Whiteheads: Are often under the surface of skin, when clogged pore is closed. The top appears white. ● Papules: Look like pink bumps, seem inflamed. ● Pustules: Seems inflamed like papules, but are red towards the bottom and a white/yellow at top. ● Nodules: Deep in the skin, are large, solid, and painful. ● Cysts: Deep and full of pus, are painful and cause scarring."
+    },
+    {
+      "id": 10,
+      "intent": "why_do_i_get_pimples_before_my_period",
+      "triggers": [
+        "why do i get pimples before my period",
+        "do i get pimples before my period",
+        "period acne",
+        "hormonal acne",
+        "breakouts before period",
+        "pimples around my period",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Why do I get pimples before my period?",
+      "answer": "Because your hormonal levels are often changing, your skin becomes more oily which may lead to more breakouts of pimples. Stress may worsen acne."
+    },
+    {
+      "id": 11,
+      "intent": "does_acne_go_away_after_my_period_ends",
+      "triggers": [
+        "does acne go away after my period ends",
+        "acne go away after my period ends",
+        "period acne",
+        "hormonal acne",
+        "breakouts before period",
+        "pimples around my period",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Does acne go away after my period ends?",
+      "answer": "Unfortunately, due to testosterone, a male hormone, may cause you to get oily skin towards the end of your period, causing more pimples and breakouts."
+    },
+    {
+      "id": 12,
+      "intent": "how_can_i_stop_feeling_pain_on_my_pimples",
+      "triggers": [
+        "how can i stop feeling pain on my pimples",
+        "can i stop feeling pain on my pimples",
+        "period acne",
+        "hormonal acne",
+        "breakouts before period",
+        "pimples around my period",
+        "period cramps",
+        "menstrual pain"
+      ],
+      "question": "How can I stop feeling pain on my pimples?",
+      "answer": "● A warm compress for 10-15 minutes, 3-4 times a day may help ease the pain ● A cold compress or ice for 5-10 minutes can relieve pain and swelling"
+    },
+    {
+      "id": 13,
+      "intent": "how_can_i_stop_breakouts_on_my_period",
+      "triggers": [
+        "how can i stop breakouts on my period",
+        "can i stop breakouts on my period",
+        "period acne",
+        "hormonal acne",
+        "breakouts before period",
+        "pimples around my period",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "How can I stop breakouts on my period?",
+      "answer": "You can try some of these methods to speed up a healing process or prevent breakouts: ● Wash your face twice a day with a gentle nonsoap cleanser ● Use a cleanser or cream to keep pores clear ● Washing your hands to keep bacteria from touching your face ● Avoid irritating products that may irritate your skin ● Use acne products, but refrain from overuse ● Wash your face after sweating"
+    },
+    {
+      "id": 14,
+      "intent": "when_should_i_see_my_doctor_during_my_period",
+      "triggers": [
+        "when should i see my doctor during my period",
+        "should i see my doctor during my period",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period"
+      ],
+      "question": "When should I see my doctor during my period?",
+      "answer": "There may be issues during your cycle which may ring alarms in your head. Here are some issues that you may wanna reach out to your doctor about if it has been affecting your period: ● Irregular or missed periods ● Excess facial or body hair ● Weight gain ● Difficulty losing weight ● Dark patches of skin ● Thinning hair ● Hair loss"
+    },
+    {
+      "id": 15,
+      "intent": "what_can_i_wear_during_bleeding_for_my_period",
+      "triggers": [
+        "what can i wear during bleeding for my period",
+        "can i wear during bleeding for my period",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period"
+      ],
+      "question": "What can I wear during bleeding for my period?",
+      "answer": "● Sanitary Pads ● Tampons ● Menstrual Cups ● Menstrual Discs ● Period Underwear"
+    },
+    {
+      "id": 16,
+      "intent": "when_do_periods_end_forever",
+      "triggers": [
+        "when do periods end forever",
+        "do periods end forever",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period"
+      ],
+      "question": "When do periods end forever?",
+      "answer": "A period ends forever at menopause"
+    },
+    {
+      "id": 17,
+      "intent": "what_is_menopause",
+      "triggers": [
+        "what is menopause",
+        "is menopause"
+      ],
+      "question": "What is menopause?",
+      "answer": "Menopause marks the end of reproductive years, the transition can range from ages 41-50. It can most broadly be defined as menstruation ending."
+    },
+    {
+      "id": 18,
+      "intent": "is_my_period_smelling_normal",
+      "triggers": [
+        "is my period smelling normal",
+        "my period smelling normal",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period"
+      ],
+      "question": "Is my period smelling normal?",
+      "answer": "An odor during a period can be normal, but it can be signs for an infection, imbalance of vaginal bacteria, or a sign you left a period product in for too long."
+    },
+    {
+      "id": 19,
+      "intent": "what_types_of_period_odor_are_there",
+      "triggers": [
+        "what types of period odor are there",
+        "types of period odor are there",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period"
+      ],
+      "question": "What types of period odor are there?",
+      "answer": "● Metallic: Sign of iron in blood ● Rotten: A sign a period product has been left in for too long, such as a tampon ● Sweet: Normal sign for changes in balance of vaginal bacteria ● Body Odor: When sweat mixes with period blood ● Fishy: May be a sign of an infection, but it’s important if any other serious symptoms accompany it."
+    },
+    {
+      "id": 20,
+      "intent": "what_causes_an_odor_during_a_period",
+      "triggers": [
+        "what causes an odor during a period",
+        "causes an odor during a period",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period"
+      ],
+      "question": "What causes an odor during a period?",
+      "answer": "There may be a variety of reasons ranging from infections to leaving a tampon in for too long. It’s normal for a slight scent to accompany your period, but if the smell is too strong or is accompanied by any other symptoms, please reach out to your doctor."
+    },
+    {
+      "id": 21,
+      "intent": "how_do_i_stop_smelling_during_my_period",
+      "triggers": [
+        "how do i stop smelling during my period",
+        "do i stop smelling during my period",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period"
+      ],
+      "question": "How do I stop smelling during my period?",
+      "answer": "Practicing good menstruation hygiene may limit the odor during a period. Some ways you can minimize the smell are: ● Changing pad or tampon frequently ● Practicing vaginal care ● Trying menstruation cups"
+    },
+    {
+      "id": 22,
+      "intent": "how_does_the_menstrual_cycle_affect_other_health_problems",
+      "triggers": [
+        "how does the menstrual cycle affect other health problems",
+        "does the menstrual cycle affect other health problems",
+        "menstrual cycle question",
+        "period cycle question",
+        "cycle changes"
+      ],
+      "question": "How does the menstrual cycle affect other health problems?",
+      "answer": "Anemia: “Anemia is a condition that happens when your blood cannot carry enough oxygen to all of the different parts of your body because it does not have enough iron. This makes you pale or feel tired or weak” Asthma: “Your asthma symptoms may be worse during some parts of your cycle” Depression: Women with a history of depression are more likely to have premenstrual syndrome (PMS) or premenstrual dysphoric disorder (PMDD). Symptoms of depression may also be worse before their period for women with depression” Diabetes: “Women with irregular menstrual cycles, especially those longer than 40 days, have a higher risk for type 2 diabetes. Younger women between 18 and 22 with irregular periods are even more at risk.4 Polycystic ovary syndrome (PCOS) may be the link between irregular periods and diabetes. Most women with PCOS have problems with insulin and are at risk for type 2 diabetes” Heart Disease and stroke: “When you have amenorrhea or are in menopause, your ovaries may no longer make estrogen. Estrogen protects your body in many ways, including against heart disease and stroke” Osteoporosis: “If you have amenorrhea, your bones might be at risk. Without estrogen from your ovaries, you lose bone mass, which puts you at risk for osteoporosis. Osteoporosis is a condition that causes your bones to become brittle and weak and break easily”"
+    },
+    {
+      "id": 23,
+      "intent": "what_is_premenstrual_dysphoric_disorder_pmdd",
+      "triggers": [
+        "what is premenstrual dysphoric disorder (pmdd)",
+        "is premenstrual dysphoric disorder (pmdd)"
+      ],
+      "question": "What is premenstrual dysphoric disorder (PMDD)?",
+      "answer": "Premenstrual dysphoric disorder is similar to premenstrual syndrome but is more serious. Some effects of PMDD include severe irritability, depression, or anxiety in the week or two before your period starts. Symptoms usually go away 2-3 days after your period starts. Some women may need medicine or other treatment to help with the symptoms"
+    },
+    {
+      "id": 24,
+      "intent": "who_gets_pmdd",
+      "triggers": [
+        "who gets pmdd",
+        "gets pmdd"
+      ],
+      "question": "Who gets PMDD?",
+      "answer": "“PMDD affects up to 5% of women of childbearing age. Many women with PMDD may also have anxiety or depression”"
+    },
+    {
+      "id": 25,
+      "intent": "what_causes_pmdd",
+      "triggers": [
+        "what causes pmdd",
+        "causes pmdd"
+      ],
+      "question": "What causes PMDD?",
+      "answer": "“Researchers do not know for sure what causes PMDD or PMS. Hormonal changes throughout the menstrual cycle may play a role. A brain chemical called serotonin may also play a role in PMDD. Serotonin levels change throughout the menstrual cycle. Some women may be more sensitive to these changes”"
+    },
+    {
+      "id": 26,
+      "intent": "how_is_pmdd_diagnosed",
+      "triggers": [
+        "how is pmdd diagnosed",
+        "is pmdd diagnosed"
+      ],
+      "question": "How is PMDD diagnosed?",
+      "answer": "Your doctor will talk to you about your health history and do a physical examination. You will need to keep a calendar or diary of your symptoms to help your doctor diagnose PMDD. You must have 5 or more PMDD symptoms, including one mood-related symptom, to be diagnosed with PMDD."
+    },
+    {
+      "id": 27,
+      "intent": "what_are_the_symptoms_of_pmdd",
+      "triggers": [
+        "what are the symptoms of pmdd",
+        "are the symptoms of pmdd"
+      ],
+      "question": "What are the symptoms of PMDD?",
+      "answer": "● “Lasting irritability or anger that may affect other people” ● “Feelings of sadness or despair, or even thoughts of suicide” ● “Panic attacks” ● “Mood swings or crying often” ● “Lack of interest in daily activities and relationships” ● “Trouble thinking or focusing” ● “Tiredness or low energy” ● Food cravings or binge eating” ● “Trouble sleeping” ● “Feeling out of control” ● “Physical symptoms, such as cramps, bloating, breast tenderness, headaches, and joint or muscle pain"
+    },
+    {
+      "id": 28,
+      "intent": "what_is_amenorrhea",
+      "triggers": [
+        "what is amenorrhea",
+        "is amenorrhea"
+      ],
+      "question": "What is amenorrhea?",
+      "answer": "Amenorrhea is the absence of menstrual periods before menopause. You may have amenorrhea if you haven’t had a period for three months in a row or haven’t had your first period by age 15. Amenorrhea happens in 3-4% of women. Amenorrhea that is not caused by pregnancy or breastfeeding could mean that your ovaries stopped making normal amounts of the hormone estrogen. Lack of this hormone can have serious effects on your health."
+    },
+    {
+      "id": 29,
+      "intent": "what_are_some_causes_of_amenorrhea",
+      "triggers": [
+        "what are some causes of amenorrhea",
+        "are some causes of amenorrhea"
+      ],
+      "question": "What are some causes of amenorrhea?",
+      "answer": "Causes include: ● Pregnancy: “period stops during pregnancy because your ovaries no longer release eggs. You may get some spotting (light vaginal bleeding), but this is common and usually does not mean a problem with the pregnancy. If you have spotting during pregnancy you should see your doctor or nurse to be sure” ● Breastfeeding: “For some women, their periods do not come back until after breastfeeding ends. For others, their periods may return within a few months of giving birth. While your baby transitions from breastfeeding to other foods you may ovulate and not realize it” ● Eating disorders: “Amenorrhea can happen if your body fat drops so low that ovulation stops. Anorexia often causes extreme weight loss leading to a very low body weight that is not healthy. This can cause periods to be less regular or stop completely” ● Weight gain: “gaining too much weight or losing too much weight can cause missed periods. Menstrual periods will usually restart after losing weight if you are overweight or gaining weight if you are underweight” ● Stress: “long-term, severe stress can affect the part of your brain that controls reproduction. As a result, ovulation and your period can stop. Managing the stress can help restore normal menstrual cycles” ● Hormonal problems: “This includes problems with the reproductive organs of those caused by health conditions such as polycystic ovary syndrome” ● Other serious health problems: “including birth defects and tumors in the brain. Once these problems are treated, your period may start for the first time or you may get your period again if it had stopped”"
+    },
+    {
+      "id": 30,
+      "intent": "what_is_polycystic_ovary_syndrome",
+      "triggers": [
+        "what is polycystic ovary syndrome",
+        "is polycystic ovary syndrome"
+      ],
+      "question": "What is polycystic ovary syndrome?",
+      "answer": "“Polycystic ovary syndrome (PCOS), also known as polycystic ovarian syndrome, is a common health problem caused by an imbalance of reproductive hormones. The hormonal imbalance creates problems in the ovaries. The ovaries make the egg that is released each month as part of a healthy menstrual cycle. With PCOS, the egg may not develop as it should or it may not be released during ovulation as it should be”"
+    },
+    {
+      "id": 31,
+      "intent": "who_gets_pcos",
+      "triggers": [
+        "who gets pcos",
+        "gets pcos"
+      ],
+      "question": "Who gets PCOS?",
+      "answer": "“Between 5% and 10% of women between 15 and 44, or during the years you can have children, have PCOS. Most women find out they have PCOS in their 20s and 30s, when they have problems getting pregnant and see their doctor. But PCOS can happen at any age after puberty” “Women of all races and ethnicities are at risk of PCOS. Your risk of PCOS may be higher if you have obesity or if you have a mother, sister, or aunt, with PCOS”"
+    },
+    {
+      "id": 32,
+      "intent": "are_there_signs_that_my_bloating_is_not_from_my_period_and_could_be_something_el",
+      "triggers": [
+        "are there signs that my bloating is not from my period and could be something else",
+        "there signs that my bloating is not from my period and could be something else",
+        "period bloating",
+        "bloated before period",
+        "swelling during pms",
+        "stomach feels swollen",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Are there signs that my bloating is not from my period and could be something else?",
+      "answer": "Bloating has many possible causes other than the hormonal fluctuations women experience during their menstruation cycle, which include: ● Gas - Gas is a natural byproduct of digestion, and while most gasses escape through bleching before they reach your intestines, you can have excess intestinal gas if you experience digestive issues like eating too much too fast or having a condition like food intolerance that causes gas and digestive contents to build up. ● Digestive Contents - Any build-up of digestive contents along the digestive tract will leave less room for normal amounts of gas to pass through, and these causes of buildup can include: ○ Constipation ○ Bowel obstructions ○ Motility disorders ○ Recent weight gain"
+    },
+    {
+      "id": 33,
+      "intent": "are_there_any_safe_exercises_or_stretches_that_help_with_period_bloating",
+      "triggers": [
+        "are there any safe exercises or stretches that help with period bloating",
+        "there any safe exercises or stretches that help with period bloating",
+        "period bloating",
+        "bloated before period",
+        "swelling during pms",
+        "stomach feels swollen",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Are there any safe exercises or stretches that help with period bloating?",
+      "answer": "Yoga may be a great way to possibly reduce your pain, cramping, inflammation, bloating, or stress. Some poses include: ● Cat/Cow: https://www.youtube.com/ watch?v=LIVJZZyZ2qM ● Cobra: https://www.youtube.com/ watch?v=JDcdhTuycOI ● Downward Dog: https://www.youtube.com/ watch?v=uh4DN7gxrjY ● Reverse Warrior: https://www.youtube.com/ watch?v=DqRFDUlDPls ● Triangle: https://www.youtube.com/ watch?v=wU3p4qU8eiw ● Seated Forward Fold: https://www.youtube.com/ watch?v=SLIaql7h6RQ ● Seated Spinal Twist: https://www.youtube.com/ watch?v=qEVNj4tcr0Y ● Bridge: https://www.youtube.com/ watch?v=XUcAuYd7VU0"
+    },
+    {
+      "id": 34,
+      "intent": "why_do_i_get_acne_before_my_period",
+      "triggers": [
+        "why do i get acne before my period",
+        "do i get acne before my period",
+        "period acne",
+        "hormonal acne",
+        "breakouts before period",
+        "pimples around my period",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Why do I get acne before my period?",
+      "answer": "Having higher testosterone levels before and during your period can stimulate the sebaceous glands even more, causing them to secrete more sebum. Increased sebum creates a perfect breeding ground for a bacterium that causes acne, called Cutibacterium acnes. Your immune system reacts to these bacteria, causing inflammation and pimples before your period."
+    },
+    {
+      "id": 35,
+      "intent": "why_does_my_skin_get_oilier_right_before_my_period_starts",
+      "triggers": [
+        "why does my skin get oilier right before my period starts",
+        "does my skin get oilier right before my period starts",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period",
+        "what causes my skin get oilier right before my period starts",
+        "is it normal for my skin get oilier right before my period starts"
+      ],
+      "question": "Why does my skin get oilier right before my period starts?",
+      "answer": "These hormonal shifts can cause all sorts of skin changes. The rise in progesterone during the middle of the luteal phase stimulates the sebaceous glands to secrete sebum. Sebum is an oily, thick substance that naturally lubricates the skin."
+    },
+    {
+      "id": 36,
+      "intent": "how_long_does_hormonal_acne_usually_last_during_my_cycle",
+      "triggers": [
+        "how long does hormonal acne usually last during my cycle",
+        "long does hormonal acne usually last during my cycle",
+        "period acne",
+        "hormonal acne",
+        "breakouts before period",
+        "pimples around my period",
+        "menstrual cycle question",
+        "period cycle question"
+      ],
+      "question": "How long does hormonal acne usually last during my cycle?",
+      "answer": "The flare-ups usually occur 7 to 10 days before menstruation begins and get better as soon as your period starts."
+    },
+    {
+      "id": 37,
+      "intent": "why_do_pimples_feel_more_painful_during_pms",
+      "triggers": [
+        "why do pimples feel more painful during pms",
+        "do pimples feel more painful during pms",
+        "period acne",
+        "hormonal acne",
+        "breakouts before period",
+        "pimples around my period",
+        "period cramps",
+        "menstrual pain"
+      ],
+      "question": "Why do pimples feel more painful during PMS?",
+      "answer": "Pimples are more painful during PMS due to hormonal shifts that cause increased oil production and inflammation. A drop in estrogen and a rise in androgens like testosterone lead to more sebum, which clogs pores and can form deep, painful cysts or nodules that are tender to the touch."
+    },
+    {
+      "id": 38,
+      "intent": "can_my_period_trigger_breakouts_on_my_back_or_body",
+      "triggers": [
+        "can my period trigger breakouts on my back or body",
+        "my period trigger breakouts on my back or body",
+        "period acne",
+        "hormonal acne",
+        "breakouts before period",
+        "pimples around my period",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Can my period trigger breakouts on my back or body?",
+      "answer": "Yes, normally, hormonal breakouts most often occur on the lower third of your face, like your chin and jawline. But Dr. diTrapano says that period acne can also take up residence on your cheeks, neck, and around your mouth, as well as on your shoulders and back."
+    },
+    {
+      "id": 39,
+      "intent": "why_does_my_skin_look_dull_or_dry_during_my_period",
+      "triggers": [
+        "why does my skin look dull or dry during my period",
+        "does my skin look dull or dry during my period",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period",
+        "what causes my skin look dull or dry during my period",
+        "is it normal for my skin look dull or dry during my period"
+      ],
+      "question": "Why does my skin look dull or dry during my period?",
+      "answer": "Having higher testosterone levels before and during your period can stimulate the sebaceous glands even more, causing them to secrete more sebum. For some, it can cause premenstrual acne as the pores become clogged along with dirt, debris, and dead skin cells."
+    },
+    {
+      "id": 40,
+      "intent": "do_skincare_products_work_differently_depending_on_where_i_am_in_my_cycle",
+      "triggers": [
+        "do skincare products work differently depending on where i am in my cycle",
+        "skincare products work differently depending on where i am in my cycle",
+        "menstrual cycle question",
+        "period cycle question",
+        "cycle changes"
+      ],
+      "question": "Do skincare products work differently depending on where I am in my cycle?",
+      "answer": "During your period, estrogen and progesterone drop, making your skin drier, more sensitive, and less able to hold moisture. After your period ends, estrogen rises again, boosting hydration and collagen so your skin looks clearer, calmer, and more radiant. Because of these shifts, you should use richer, barrier-repairing products during menstruation and switch to lighter, exfoliating or radiance-boosting products during the follicular phase to support your naturally glowing skin."
+    },
+    {
+      "id": 41,
+      "intent": "why_does_my_acne_get_worse_during_ovulation",
+      "triggers": [
+        "why does my acne get worse during ovulation",
+        "does my acne get worse during ovulation",
+        "period acne",
+        "hormonal acne",
+        "breakouts before period",
+        "pimples around my period",
+        "what causes my acne get worse during ovulation",
+        "is it normal for my acne get worse during ovulation"
+      ],
+      "question": "Why does my acne get worse during ovulation?",
+      "answer": "Acne is often a result of hormonal changes, and ovulation can cause acne due to the major hormonal shifts that happen at that time in the menstrual cycle."
+    },
+    {
+      "id": 42,
+      "intent": "can_stress_make_my_period_acne_worse",
+      "triggers": [
+        "can stress make my period acne worse",
+        "stress make my period acne worse",
+        "period acne",
+        "hormonal acne",
+        "breakouts before period",
+        "pimples around my period",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Can stress make my period acne worse?",
+      "answer": "Stress won’t give you acne if you’re not already predisposed to it, but it can make acne worse by causing levels of certain hormones to temporarily increase."
+    },
+    {
+      "id": 43,
+      "intent": "do_hormonal_changes_affect_how_fast_my_pimples_heal",
+      "triggers": [
+        "do hormonal changes affect how fast my pimples heal",
+        "hormonal changes affect how fast my pimples heal",
+        "period acne",
+        "hormonal acne",
+        "breakouts before period",
+        "pimples around my period"
+      ],
+      "question": "Do hormonal changes affect how fast my pimples heal?",
+      "answer": "Yes, hormonal changes can affect how fast pimples heal, as fluctuations in hormones like estrogens can impact oil production and inflammation, making acne more persistent. Hormonal acne often shows up as deep, cystic pimples that take longer to heal than typical breakouts and can be linked to events like the menstrual cycle, pregnancy, or conditions like PCOS."
+    },
+    {
+      "id": 44,
+      "intent": "why_do_i_feel_bloated_before_my_period",
+      "triggers": [
+        "why do i feel bloated before my period",
+        "do i feel bloated before my period",
+        "period bloating",
+        "bloated before period",
+        "swelling during pms",
+        "stomach feels swollen",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Why do I feel bloated before my period?",
+      "answer": "Bloating could be a symptom of either PMS or early pregnancy. Bloating before and during a period is triggered by changes in the levels of estrogen and progesterone."
+    },
+    {
+      "id": 45,
+      "intent": "how_long_does_period_bloating_usually_last",
+      "triggers": [
+        "how long does period bloating usually last",
+        "long does period bloating usually last",
+        "period bloating",
+        "bloated before period",
+        "swelling during pms",
+        "stomach feels swollen",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "How long does period bloating usually last?",
+      "answer": "It can begin about a week before your period arrives and may stick around for a few days after it starts. In addition, you may experience bloating some months but not others, because hormone levels in the body can fluctuate from cycle to cycle."
+    },
+    {
+      "id": 46,
+      "intent": "why_do_i_get_indigestion_during_pms",
+      "triggers": [
+        "why do i get indigestion during pms",
+        "do i get indigestion during pms",
+        "period stomach issues",
+        "digestive changes during period",
+        "pms digestion",
+        "stomach problems before period",
+        "what causes me to get indigestion during pms",
+        "is it normal that i get indigestion during pms"
+      ],
+      "question": "Why do I get indigestion during PMS?",
+      "answer": "You get indigestion during PMS due to hormonal changes, particularly the rise in progesterone and prostaglandins. Progesterone slows your digestive system, while prostaglandins increase during your period and can cause painful muscle contractions in the gastrointestinal tract, leading to symptoms like bloating, gas, constipation, or diarrhea."
+    },
+    {
+      "id": 47,
+      "intent": "why_does_my_stomach_feel_tight_or_swollen_before_my_period",
+      "triggers": [
+        "why does my stomach feel tight or swollen before my period",
+        "does my stomach feel tight or swollen before my period",
+        "period bloating",
+        "bloated before period",
+        "swelling during pms",
+        "stomach feels swollen",
+        "period stomach issues",
+        "digestive changes during period"
+      ],
+      "question": "Why does my stomach feel tight or swollen before my period?",
+      "answer": "Your stomach may feel tight or swollen before your period due to hormonal changes, particularly the fluctuations in estrogen and progesterone, which cause the body to retain water and salt. Other factors, like changes in digestion, the production of prostaglandins, and an increase in gas, can also contribute to bloating."
+    },
+    {
+      "id": 48,
+      "intent": "why_do_i_get_constipation_before_my_period",
+      "triggers": [
+        "why do i get constipation before my period",
+        "do i get constipation before my period",
+        "period stomach issues",
+        "digestive changes during period",
+        "pms digestion",
+        "stomach problems before period",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Why do I get constipation before my period?",
+      "answer": "You get constipation during PMS due to hormonal changes, particularly the rise in progesterone and prostaglandins. Progesterone slows your digestive system, while prostaglandins increase during your period and can cause painful muscle contractions in the gastrointestinal tract, leading to symptoms like bloating, gas, constipation, or diarrhea."
+    },
+    {
+      "id": 49,
+      "intent": "why_do_i_get_diarrhea_when_my_period_starts",
+      "triggers": [
+        "why do i get diarrhea when my period starts",
+        "do i get diarrhea when my period starts",
+        "period stomach issues",
+        "digestive changes during period",
+        "pms digestion",
+        "stomach problems before period",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Why do I get diarrhea when my period starts?",
+      "answer": "You get constipation during PMS due to hormonal changes, particularly the rise in progesterone and prostaglandins. Progesterone slows your digestive system, while prostaglandins increase during your period and can cause painful muscle contractions in the gastrointestinal tract, leading to symptoms like bloating, gas, constipation, or diarrhea."
+    },
+    {
+      "id": 50,
+      "intent": "can_certain_foods_make_period_bloating_worse",
+      "triggers": [
+        "can certain foods make period bloating worse",
+        "certain foods make period bloating worse",
+        "period bloating",
+        "bloated before period",
+        "swelling during pms",
+        "stomach feels swollen",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Can certain foods make period bloating worse?",
+      "answer": "Yes, certain foods can make period bloating worse, including salty foods, refined carbohydrates and sugars, fatty foods, and high-caffeine beverages. These can increase water retention, cause blood sugar spikes, and contribute to inflammation, all of which can exacerbate bloating and other discomforts during your period."
+    },
+    {
+      "id": 51,
+      "intent": "does_drinking_more_water_help_with_bloating_during_pms",
+      "triggers": [
+        "does drinking more water help with bloating during pms",
+        "drinking more water help with bloating during pms",
+        "period bloating",
+        "bloated before period",
+        "swelling during pms",
+        "stomach feels swollen"
+      ],
+      "question": "Does drinking more water help with bloating during PMS?",
+      "answer": "Yes, drinking more water can help with bloating during PMS because it flushes out excess sodium, keeps kidneys functioning properly to reduce water retention, and helps regulate digestion to prevent constipation. When you are dehydrated, your body holds onto water, which can worsen bloating."
+    },
+    {
+      "id": 52,
+      "intent": "why_do_my_face_or_hands_look_puffy_during_pms",
+      "triggers": [
+        "why do my face or hands look puffy during pms",
+        "do my face or hands look puffy during pms",
+        "period bloating",
+        "bloated before period",
+        "swelling during pms",
+        "stomach feels swollen"
+      ],
+      "question": "Why do my face or hands look puffy during PMS?",
+      "answer": "Puffiness in the face and hands during PMS is caused by fluid retention, which is a common side effect of hormonal changes, particularly increased estrogen levels before a period. These hormonal shifts cause the body to hold onto more water and salt, leading to swelling. Diet, stress, and certain lifestyle habits can also contribute to this symptom."
+    },
+    {
+      "id": 53,
+      "intent": "can_bloating_happen_even_when_i_didn_t_eat_much",
+      "triggers": [
+        "can bloating happen even when i didn’t eat much",
+        "bloating happen even when i didn’t eat much",
+        "period bloating",
+        "bloated before period",
+        "swelling during pms",
+        "stomach feels swollen",
+        "is it possible bloating happen even when i didn’t eat much",
+        "does bloating happen even when i didn’t eat much"
+      ],
+      "question": "Can bloating happen even when I didn’t eat much?",
+      "answer": "Yes, water and salt retention in the body and changes in bowel movement can cause bloating a few days before you get your period, and can last for a few days into the period for many women."
+    },
+    {
+      "id": 54,
+      "intent": "why_do_i_get_cramps_before_my_period_even_starts",
+      "triggers": [
+        "why do i get cramps before my period even starts",
+        "do i get cramps before my period even starts",
+        "period cramps",
+        "menstrual pain",
+        "cramps before period",
+        "bad period pain",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Why do I get cramps before my period even starts?",
+      "answer": "The cause is usually having too many prostaglandins, which are chemicals that your uterus makes. These chemicals make the muscles of your uterus tighten and relax, and this causes the cramps. The pain can start a day or two before your period. It normally lasts for a few days, though in some women it can last longer."
+    },
+    {
+      "id": 55,
+      "intent": "are_severe_cramps_normal_or_should_i_see_a_doctor",
+      "triggers": [
+        "are severe cramps normal, or should i see a doctor",
+        "severe cramps normal, or should i see a doctor",
+        "period cramps",
+        "menstrual pain",
+        "cramps before period",
+        "bad period pain"
+      ],
+      "question": "Are severe cramps normal, or should I see a doctor?",
+      "answer": "For many women, some pain during their period is normal. However, you should contact your health care provider if: NSAIDs and self-care measures don't help, and the pain interferes with your life; your cramps suddenly get worse; you are over 25, and you get severe cramps for the first time; you have a fever with your period pain; you have the pain even when you are not getting your period"
+    },
+    {
+      "id": 56,
+      "intent": "why_are_my_cramps_worse_some_months_than_others",
+      "triggers": [
+        "why are my cramps worse some months than others",
+        "are my cramps worse some months than others",
+        "period cramps",
+        "menstrual pain",
+        "cramps before period",
+        "bad period pain"
+      ],
+      "question": "Why are my cramps worse some months than others?",
+      "answer": "Period cramps may be caused by recent lifestyle changes like sleep problems, stress, starting or stopping a new medication, or eating habits. A sudden change in your period cramps could be caused by a health condition like endometriosis, ovarian cysts, pelvic tumors, uterine fibroids, ovarian torsion, or IBD."
+    },
+    {
+      "id": 57,
+      "intent": "why_do_my_cramps_spread_to_my_back_or_thighs",
+      "triggers": [
+        "why do my cramps spread to my back or thighs",
+        "do my cramps spread to my back or thighs",
+        "period cramps",
+        "menstrual pain",
+        "cramps before period",
+        "bad period pain"
+      ],
+      "question": "Why do my cramps spread to my back or thighs?",
+      "answer": "During your period, the uterus contracts to shed its lining. These contractions are driven by prostaglandins: natural chemicals that trigger inflammation and muscle tightening. When prostaglandin levels are high, the pain can be more intense and spread to other areas, like your lower back or legs."
+    },
+    {
+      "id": 58,
+      "intent": "why_do_i_get_sharp_pains_during_ovulation",
+      "triggers": [
+        "why do i get sharp pains during ovulation",
+        "do i get sharp pains during ovulation",
+        "period cramps",
+        "menstrual pain",
+        "cramps before period",
+        "bad period pain",
+        "what causes me to get sharp pains during ovulation",
+        "is it normal that i get sharp pains during ovulation"
+      ],
+      "question": "Why do I get sharp pains during ovulation?",
+      "answer": "Sharp pains during ovulation happen because the ovary is releasing an egg, which can irritate the follicle, causing stretching or fluid leaking into the abdomen. Ovulation pain is also called “mittelschmerz.” The term comes from the German words for “middle” and “pain.” Mittelschmerz is typically harmless and doesn’t require medical attention. Over-the-counter (OTC) pain relievers are effective in treating painful ovulation. If the pain becomes severe, a healthcare provider may prescribe oral contraceptives to stop ovulation from occurring."
+    },
+    {
+      "id": 59,
+      "intent": "why_do_my_legs_feel_heavy_or_sore_during_pms",
+      "triggers": [
+        "why do my legs feel heavy or sore during pms",
+        "do my legs feel heavy or sore during pms"
+      ],
+      "question": "Why do my legs feel heavy or sore during PMS?",
+      "answer": "During menstruation, the body produces prostaglandins, chemicals that help the uterus contract to expel the uterine lining. These contractions can affect surrounding blood vessels, nerves, and muscles, including those in the legs, causing pain or cramps. Pressure on the nerves can be very uncomfortable."
+    },
+    {
+      "id": 60,
+      "intent": "why_do_cramps_feel_worse_when_i_lie_down",
+      "triggers": [
+        "why do cramps feel worse when i lie down",
+        "do cramps feel worse when i lie down",
+        "period cramps",
+        "menstrual pain",
+        "cramps before period",
+        "bad period pain"
+      ],
+      "question": "Why do cramps feel worse when I lie down?",
+      "answer": "It may not necessarily be cramps, but having acid reflux or GERD could cause pain. “When a person lies down, the chances of the stomach contents refluxing into the esophagus go up because you don't have the benefit of gravity,” Dr. Firoozi says. (Erosive reflux disease could also be to blame if you're waking up with stomach pain.)"
+    },
+    {
+      "id": 61,
+      "intent": "can_dehydration_make_cramps_worse",
+      "triggers": [
+        "can dehydration make cramps worse",
+        "dehydration make cramps worse",
+        "period cramps",
+        "menstrual pain",
+        "cramps before period",
+        "bad period pain",
+        "is it possible dehydration make cramps worse",
+        "does dehydration make cramps worse"
+      ],
+      "question": "Can dehydration make cramps worse?",
+      "answer": "Yes, dehydration can worsen cramping, headaches, and fatigue. To help with the cramps, drink plenty of water and avoid dehydrating drinks like alcohol and caffeine."
+    },
+    {
+      "id": 62,
+      "intent": "how_long_should_cramps_last_before_i_worry",
+      "triggers": [
+        "how long should cramps last before i worry",
+        "long should cramps last before i worry",
+        "period cramps",
+        "menstrual pain",
+        "cramps before period",
+        "bad period pain",
+        "duration of long should cramps last before i worry",
+        "how many days long should cramps last before i worry"
+      ],
+      "question": "How long should cramps last before I worry?",
+      "answer": "Since there isn’t one standard or “normal” experience to compare menstrual symptoms to, the best way to find out what’s normal for you is to talk to your primary care doctor, OB-GYN, or another women’s health expert. You should talk to a doctor any time you have questions or concerns about your menstrual symptoms, but particularly if: your period pain feels unbearable or interferes with your daily life; cramps last longer than two days; you get little or no relief from over-the-counter pain medication; you have cramps outside of your period; you notice a change in how your cramps feel over time; you experience other severe symptoms alongside your cramps (such as heavy menstrual bleeding, vomiting or fever)"
+    },
+    {
+      "id": 63,
+      "intent": "why_do_i_get_full_body_aches_during_pms",
+      "triggers": [
+        "why do i get full-body aches during pms",
+        "do i get full-body aches during pms",
+        "what causes me to get full-body aches during pms",
+        "is it normal that i get full-body aches during pms"
+      ],
+      "question": "Why do I get full-body aches during PMS?",
+      "answer": "People typically report period flu symptoms after they ovulate, when estrogen levels fall, and progesterone levels rise. Researchers have not identified a singular, specific cause of premenstrual symptoms. However, they may result from: sensitivity to substances that arise as progesterone breaks down; progesterone affecting chemical messengers in the brain, known as neurotransmitters; changes in the levels of a specific neurotransmitter called serotonin."
+    },
+    {
+      "id": 64,
+      "intent": "why_do_i_feel_exhausted_before_my_period",
+      "triggers": [
+        "why do i feel exhausted before my period",
+        "do i feel exhausted before my period",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period",
+        "what causes me to feel exhausted before my period",
+        "is it normal that i feel exhausted before my period"
+      ],
+      "question": "Why do I feel exhausted before my period?",
+      "answer": "There are many reasons why you may experience fatigue before your period. Some of these reasons aren’t under your control, but others, such as anemia, can be mitigated. Right before your period, your estrogen drops. Estrogen impacts serotonin, which is a neurotransmitter used to create melatonin, the sleep hormone. As a consequence, your melatonin levels drop as well. This can shorten your sleep cycle and lead to less restful sleep."
+    },
+    {
+      "id": 65,
+      "intent": "why_do_i_sleep_more_or_less_during_pms",
+      "triggers": [
+        "why do i sleep more (or less) during pms",
+        "do i sleep more (or less) during pms",
+        "what causes me to sleep more (or less) during pms",
+        "is it normal that i sleep more (or less) during pms"
+      ],
+      "question": "Why do I sleep more (or less) during PMS?",
+      "answer": "During the luteal phase (the time between the ovulation phase and the start of your period), progesterone levels rise. This hormone can have a sedative effect, making you feel more tired than usual, leading to a greater need for sleep and rest. Changes in estrogen and progesterone levels can affect neurotransmitters like serotonin and melatonin, which regulate your sleep-wake cycle and affect your sleep quality. This can lead to disturbances in your circadian rhythm, increasing sleep disruption, which in turn increases your daytime sleepiness."
+    },
+    {
+      "id": 66,
+      "intent": "why_does_my_energy_suddenly_drop_right_before_my_period",
+      "triggers": [
+        "why does my energy suddenly drop right before my period",
+        "does my energy suddenly drop right before my period",
+        "period fatigue",
+        "low energy before period",
+        "feeling weak during period",
+        "tired with pms",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Why does my energy suddenly drop right before my period?",
+      "answer": "Some women lose a lot of blood during their periods. This can cause a deficiency in red blood cells. Anemia is a condition in which cells don’t get enough oxygen as a consequence of not having enough red blood cells. With less oxygen, your cells undergo stress, causing fatigue."
+    },
+    {
+      "id": 67,
+      "intent": "why_do_i_feel_dizzy_or_lightheaded_during_pms",
+      "triggers": [
+        "why do i feel dizzy or lightheaded during pms",
+        "do i feel dizzy or lightheaded during pms",
+        "what causes me to feel dizzy or lightheaded during pms",
+        "is it normal that i feel dizzy or lightheaded during pms"
+      ],
+      "question": "Why do I feel dizzy or lightheaded during PMS?",
+      "answer": "After ovulation, progesterone levels steadily rise. Then they fall right before a person gets their period. Changes in progesterone levels may increase the intensity of premenstrual symptoms. According to the Society for Endocrinology, people who have more severe premenstrual syndrome (PMS) symptoms may be more sensitive to the effects of progesterone. Progesterone treatments sometimes cause people to feel dizzy or sleepy. People undergoing progesterone therapy may notice more dizziness before their period."
+    },
+    {
+      "id": 68,
+      "intent": "why_do_i_get_headaches_or_migraines_before_my_period",
+      "triggers": [
+        "why do i get headaches or migraines before my period",
+        "do i get headaches or migraines before my period",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period",
+        "what causes me to get headaches or migraines before my period",
+        "is it normal that i get headaches or migraines before my period"
+      ],
+      "question": "Why do I get headaches or migraines before my period?",
+      "answer": "Period headaches are a common type of migraine that happens around the time of your menstrual cycle. Hormonal changes cause these migraine headaches. Period headaches relate to changes in estrogen levels. Levels of estrogen drop immediately before the start of your menstrual flow (menses). Premenstrual migraines regularly occur during or after the time when the hormones, estrogen and progesterone, drop to their lowest levels. Significant changes to your hormones can influence headaches."
+    },
+    {
+      "id": 69,
+      "intent": "why_does_it_feel_harder_to_exercise_during_certain_parts_of_my_cycle",
+      "triggers": [
+        "why does it feel harder to exercise during certain parts of my cycle",
+        "does it feel harder to exercise during certain parts of my cycle",
+        "menstrual cycle question",
+        "period cycle question",
+        "cycle changes"
+      ],
+      "question": "Why does it feel harder to exercise during certain parts of my cycle?",
+      "answer": "\"Energy is crucial for every physiological process in the body, including exercise performance and recovery,\" says Dr. Cannon. \"In females, it's also needed to support reproductive functions, which adds another layer of complexity.\" If you have particularly heavy periods, dips in iron levels can affect energy levels even more, leading to fatigue, making exercise much harder to follow through with."
+    },
+    {
+      "id": 70,
+      "intent": "why_do_i_wake_up_feeling_tired_during_pms_even_after_enough_sleep",
+      "triggers": [
+        "why do i wake up feeling tired during pms, even after enough sleep",
+        "do i wake up feeling tired during pms, even after enough sleep",
+        "period fatigue",
+        "low energy before period",
+        "feeling weak during period",
+        "tired with pms",
+        "what causes me to wake up feeling tired during pms, even after enough sleep",
+        "is it normal that i wake up feeling tired during pms, even after enough sleep"
+      ],
+      "question": "Why do I wake up feeling tired during PMS, even after enough sleep?",
+      "answer": "There are many reasons why you may experience fatigue before your period. Some of these reasons aren’t under your control, but others, such as anemia, can be mitigated. Right before your period, your estrogen drops. Estrogen impacts serotonin, which is a neurotransmitter used to create melatonin, the sleep hormone. As a consequence, your melatonin levels drop as well. This can shorten your sleep cycle and lead to less restful sleep."
+    },
+    {
+      "id": 71,
+      "intent": "can_mood_and_physical_fatigue_occur_simultaneously_before_my_period",
+      "triggers": [
+        "can mood and physical fatigue occur simultaneously before my period",
+        "mood and physical fatigue occur simultaneously before my period",
+        "period fatigue",
+        "low energy before period",
+        "feeling weak during period",
+        "tired with pms",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Can mood and physical fatigue occur simultaneously before my period?",
+      "answer": "Yes, mood and physical fatigue can occur simultaneously due to hormones. Hormonal changes later on in your luteal phase, a drop in your estrogen and progesterone levels, are possible reasons for fatigue before your period. Progesterone’s sedative effect can make you feel more tired, while lower estrogen may leave you feeling less energized."
+    },
+    {
+      "id": 72,
+      "intent": "why_do_my_muscles_feel_weak_or_shaky_during_pms",
+      "triggers": [
+        "why do my muscles feel weak or shaky during pms",
+        "do my muscles feel weak or shaky during pms",
+        "period fatigue",
+        "low energy before period",
+        "feeling weak during period",
+        "tired with pms"
+      ],
+      "question": "Why do my muscles feel weak or shaky during PMS?",
+      "answer": "During menstruation, many women experience a drop in energy levels accompanied by physical weakness and even episodes of shakiness. These symptoms can be distressing, leading to challenges in performing daily tasks, maintaining work productivity, and enjoying social activities. Dr. Neelam Benara states, “It’s common for women to feel weak during their period due to hormonal fluctuations and blood loss. However, when the weakness and shakiness become severe or persistent, it may indicate an underlying issue that warrants attention.”"
+    },
+    {
+      "id": 73,
+      "intent": "why_do_i_feel_cold_or_hot_more_easily_around_my_period",
+      "triggers": [
+        "why do i feel cold or hot more easily around my period",
+        "do i feel cold or hot more easily around my period",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period",
+        "what causes me to feel cold or hot more easily around my period",
+        "is it normal that i feel cold or hot more easily around my period"
+      ],
+      "question": "Why do I feel cold or hot more easily around my period?",
+      "answer": "People typically report period flu symptoms after they ovulate, when estrogen levels fall, and progesterone levels rise. Researchers have not identified a singular, specific cause of premenstrual symptoms. However, they may result from: sensitivity to substances that arise as progesterone breaks down; progesterone affecting chemical messengers in the brain, known as neurotransmitters; changes in the levels of a specific neurotransmitter called serotonin."
+    },
+    {
+      "id": 74,
+      "intent": "why_do_i_crave_salty_or_sugary_foods_before_my_period",
+      "triggers": [
+        "why do i crave salty or sugary foods before my period",
+        "do i crave salty or sugary foods before my period",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period",
+        "what causes me to crave salty or sugary foods before my period",
+        "is it normal that i crave salty or sugary foods before my period"
+      ],
+      "question": "Why do I crave salty or sugary foods before my period?",
+      "answer": "Before our periods begin, there is a drop in the hormone progesterone and a rise in oestrogen, which can cause blood sugar levels to drop. When blood sugar levels dro,p the brain sends signals to replenish sugar, and therefore cravings occur."
+    },
+    {
+      "id": 75,
+      "intent": "why_do_i_feel_hungrier_than_usual_during_pms",
+      "triggers": [
+        "why do i feel hungrier than usual during pms",
+        "do i feel hungrier than usual during pms",
+        "what causes me to feel hungrier than usual during pms",
+        "is it normal that i feel hungrier than usual during pms"
+      ],
+      "question": "Why do I feel hungrier than usual during PMS?",
+      "answer": "Progesterone plus estrogen increases hunger, and scientists think you feel hungrier in the days leading up to your period as a way to support a potential pregnancy. Taking a closer look at some of the research on how this affects different phases of your menstrual cycle: Before your period, a large review paper and several small studies found that women eat more in the days leading up to their period. Additional research shows that they specifically eat higher amounts of carbs, fat, protein, and sugar. During your period: Women who experience more severe menstrual pain are more likely to crave processed foods high in sugar, salt, and saturated fats."
+    },
+    {
+      "id": 76,
+      "intent": "why_do_i_gain_weight_before_my_period",
+      "triggers": [
+        "why do i gain weight before my period",
+        "do i gain weight before my period",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period",
+        "what causes me to gain weight before my period",
+        "is it normal that i gain weight before my period"
+      ],
+      "question": "Why do I gain weight before my period?",
+      "answer": "Weight gain and that bloated, sore feeling in your abdomen are common symptoms during your period. A main cause is hormonal changes, as they can cause weight gain by increasing water retention. In the days before your period, estrogen and progesterone rapidly decrease. This tells your body that it’s time to begin menstruation. Estrogen and progesterone also control the way your body regulates fluid. When these hormones fluctuate, the tissues in your body accumulate more water. The result is water retention, or edema. Water retention may cause swelling or puffiness in your breasts, stomach, or extremities. This increases body weight, but not fat. Water retention is a common PMS symptom. It affects 92 percent of women who menstruate."
+    },
+    {
+      "id": 77,
+      "intent": "is_period_weight_gain_mostly_water_retention",
+      "triggers": [
+        "is period weight gain mostly water retention",
+        "period weight gain mostly water retention",
+        "period symptoms",
+        "menstrual symptoms",
+        "changes during my period"
+      ],
+      "question": "Is period weight gain mostly water retention?",
+      "answer": "Yes, weight gain and that bloated, sore feeling in your abdomen are common symptoms during your period and are usually due to water retention. A main cause is hormonal changes, as they can cause weight gain by increasing water retention. In the days before your period, estrogen and progesterone rapidly decrease. This tells your body that it’s time to begin menstruation. Estrogen and progesterone also control the way your body regulates fluid. When these hormones fluctuate, the tissues in your body accumulate more water. The result is water retention, or edema. Water retention may cause swelling or puffiness in your breasts, stomach, or extremities. This increases body weight, but not fat. Water retention is a common PMS symptom. It affects 92 percent of women who menstruate."
+    },
+    {
+      "id": 78,
+      "intent": "why_do_i_feel_nauseous_before_or_during_my_period",
+      "triggers": [
+        "why do i feel nauseous before or during my period",
+        "do i feel nauseous before or during my period",
+        "period stomach issues",
+        "digestive changes during period",
+        "pms digestion",
+        "stomach problems before period",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Why do I feel nauseous before or during my period?",
+      "answer": "Period flu, also called menstrual flu, is a set of flu-like symptoms that some people experience leading up to or during their period. Although you might feel sick, period flu isn’t caused by a virus like influenza. Period flu is essentially the same thing as premenstrual syndrome (PMS), which can cause symptoms similar to the flu. Period flu, or PMS, is the result of hormonal fluctuations around the menstrual cycle. Period flu symptoms are the same as PMS symptoms, which can vary from person to person and cycle to cycle. In addition to common PMS symptoms like abdominal cramps, flu-like symptoms, people associate with period flu include: body aches, diarrhea or constipation, dizziness, fatigue, headaches, nausea, and vomiting. These period flu symptoms typically begin a few days to a week leading up to your period, although the exact timing may vary."
+    },
+    {
+      "id": 79,
+      "intent": "why_does_my_digestion_speed_up_or_slow_down_around_my_period",
+      "triggers": [
+        "why does my digestion speed up or slow down around my period",
+        "does my digestion speed up or slow down around my period",
+        "period stomach issues",
+        "digestive changes during period",
+        "pms digestion",
+        "stomach problems before period",
+        "period symptoms",
+        "menstrual symptoms"
+      ],
+      "question": "Why does my digestion speed up or slow down around my period?",
+      "answer": "“Hormonal fluctuations – such as drops in oestrogen and rises in cortisol – can influence gastrointestinal movement and function,” Lucy Kerrison, gastrointestinal dietitian at King Edward VII’s Hospital. “This can also increase levels of constipation and diarrhoea, due to slower or quicker gastrointestinal motility."
+    },
+    {
+      "id": 80,
+      "intent": "why_do_my_taste_preferences_change_during_pms",
+      "triggers": [
+        "why do my taste preferences change during pms",
+        "do my taste preferences change during pms"
+      ],
+      "question": "Why do my taste preferences change during PMS?",
+      "answer": "Increased estrogen hormone level in the follicular phase of the menstrual cycle reduces appetite, causing a decrease in the desire to eat. These symptoms have been associated with a decrease in serotonin release, leading to increased consumption of carbohydrate-rich foods, especially simple sugars."
+    },
+    {
+      "id": 81,
+      "intent": "can_eating_certain_foods_help_reduce_physical_pms_symptoms",
+      "triggers": [
+        "can eating certain foods help reduce physical pms symptoms",
+        "eating certain foods help reduce physical pms symptoms",
+        "is it possible eating certain foods help reduce physical pms symptoms",
+        "does eating certain foods help reduce physical pms symptoms"
+      ],
+      "question": "Can eating certain foods help reduce physical PMS symptoms?",
+      "answer": "A growing body of evidence suggests diets rich in omega-3 fatty acids, such as fish, calcium, and vitamin D, and low in animal fats, salt, and caffeine, may reduce the risk of troublesome PMS symptoms. Avoiding salt can help reduce fluid retention, abdominal bloating, breast swelling, and pain. High caffeine intake can cause irritability, poor sleep, and menstrual cramps."
+    },
+    {
+      "id": 82,
+      "intent": "should_i_drink_more_water_during_certain_parts_of_my_cycle",
+      "triggers": [
+        "should i drink more water during certain parts of my cycle",
+        "i drink more water during certain parts of my cycle",
+        "menstrual cycle question",
+        "period cycle question",
+        "cycle changes"
+      ],
+      "question": "Should I drink more water during certain parts of my cycle?",
+      "answer": "If loss of blood during your period leaves you feeling exhausted and weak, you might be dehydrated. Even mild dehydration can make you tired and sluggish, physically and mentally. Digestive problems are a common period side-effect, so if you’re constipated, it can relieve the situation, and if you have diarrhea, it’ll help replenish your electrolytes (the salts and minerals your body needs to regulate your nerves). When your levels of estrogen and progesterone are low, as they are at the start of a period, then your body is more likely to try to retain water, making you feel bloated and uncomfortable. As counterintuitive as it might sound, drinking more water helps to flush out your system and keep you hydrated, and might also take the edge off cramps."
+    },
+    {
+      "id": 83,
+      "intent": "why_does_my_stomach_feel_more_sensitive_to_certain_foods_during_pms",
+      "triggers": [
+        "why does my stomach feel more sensitive to certain foods during pms",
+        "does my stomach feel more sensitive to certain foods during pms",
+        "period stomach issues",
+        "digestive changes during period",
+        "pms digestion",
+        "stomach problems before period",
+        "what causes my stomach feel more sensitive to certain foods during pms",
+        "is it normal for my stomach feel more sensitive to certain foods during pms"
+      ],
+      "question": "Why does my stomach feel more sensitive to certain foods during PMS?",
+      "answer": "“Many people notice changes in their digestion around their period—and there’s a scientific reason why,” says Treta Purohit, MD, a gastroenterologist and hepatologist and Executive Medical Director at Oshi Health. “The hormones that regulate the menstrual cycle, especially estrogen and progesterone, also affect the digestive tract.” Symptoms may include period constipation or diarrhea, bloating or distention, abdominal discomfort, gas, and more. If you, like me, have an existing gastrointestinal (GI) condition, such as irritable bowel syndrome (IBS) or inflammatory bowel disease (IBD), your cycle may also trigger flares of that condition. “For people with conditions like IBS,” Dr. Purohit says, “these hormonal shifts can heighten gut sensitivity, making everyday digestive processes feel more intense or uncomfortable.” So overall, your stomach feels more sensitive during PMS because hormonal fluctuations make the GI tract more reactive."
+    }
+  ],
+  "fallback": {
+    "intent": "fallback_unknown",
+    "message": "I'm not sure I understood that question. I can help answer questions about physical changes related to periods, including acne, bloating, cramps, fatigue, digestion, appetite, weight changes, and other menstrual symptoms.",
+    "follow_up": [
+      "Can you describe the physical symptom in a different way?",
+      "Is your question about acne, bloating, cramps, fatigue, digestion, appetite, or another physical change?",
+      "Does this happen before, during, or after your period?",
+      "Has the symptom changed from what is normal for you?",
+      "Is it affecting your daily activities?"
+    ],
+    "examples": [
+      "Why do I get acne before my period?",
+      "Why do I feel bloated before my period?",
+      "Why do I get cramps before my period even starts?",
+      "Why do I feel exhausted before my period?",
+      "Why do I gain weight before my period?",
+      "Why do I feel nauseous before or during my period?"
+    ],
+    "tone": {
+      "style": "supportive",
+      "reading_level": "middle_school",
+      "voice": "friendly, calm, educational, and non-judgmental"
+    },
+    "retry_limit": {
+      "max_attempts": 3,
+      "messages": [
+        "I'm still having trouble understanding your question. Could you try describing the physical symptom differently?",
+        "I want to help, but I'm not sure what you're asking. Try mentioning the symptom and whether it happens before, during, or after your period.",
+        "I'm still unable to find a matching answer. You may want to ask a trusted adult, school nurse, parent, guardian, or healthcare provider for guidance."
+      ]
+    },
+    "safety_response": {
+      "message": "If your physical symptoms are severe, persistent, unusual, or interfere with school, sleep, exercise, or daily activities, please talk to a trusted adult, parent, guardian, or healthcare provider.",
+      "emergency_message": "If you have severe pain, fainting, very heavy bleeding, trouble breathing, or feel you may be in immediate danger, seek urgent medical help."
+    }
+  }
+}

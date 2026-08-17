@@ -1,0 +1,1045 @@
+{
+  "category": "period_flow",
+  "audience": "teens",
+  "global_disclaimer": "I am not a medical professional. This chatbot provides educational information only and does not replace professional medical advice. If period symptoms are severe, persistent, unusual, or interfering with daily life, speak with a trusted adult or healthcare provider.",
+  "qa": [
+    {
+      "id": 1,
+      "intent": "how_much_is_too_much_period_flow",
+      "triggers": [
+        "how much is too much period flow",
+        "much too much period flow"
+      ],
+      "question": "How much is too much period flow?",
+      "answer": "Period flow may be considered heavier than normal if one has to change tampons or sanitary pads about every 1-2 hours. Menstrual bleeding is too heavy if it affects your daily life or causes iron deficiency and anemia."
+    },
+    {
+      "id": 2,
+      "intent": "how_long_should_a_period_last",
+      "triggers": [
+        "how long should a period last",
+        "long period last"
+      ],
+      "question": "How long should a period last?",
+      "answer": "Prolonged menstrual bleeding occurs when a period lasts longer than 5-7 days."
+    },
+    {
+      "id": 3,
+      "intent": "how_do_you_manage_a_heavy_flow",
+      "triggers": [
+        "how do you manage a heavy flow",
+        "manage heavy flow"
+      ],
+      "question": "How do you manage a heavy flow?",
+      "answer": "Some may manage without treatment, but if the bleeding is causing health issues, then medication or surgery may be considered."
+    },
+    {
+      "id": 4,
+      "intent": "how_common_is_it_to_have_a_heavy_period",
+      "triggers": [
+        "how common is it to have a heavy period",
+        "common it to have heavy period"
+      ],
+      "question": "How common is it to have a heavy period?",
+      "answer": "About 10 out of 100 women have heavy periods, also known as menorrhagia."
+    },
+    {
+      "id": 5,
+      "intent": "how_can_you_reduce_your_flow",
+      "triggers": [
+        "how can you reduce your flow",
+        "reduce flow"
+      ],
+      "question": "How can you reduce your flow?",
+      "answer": "Hormone therapy, painkillers, and medication can help. In rare cases, surgery on the womb may also be an option."
+    },
+    {
+      "id": 6,
+      "intent": "what_are_the_signs_of_a_heavy_period",
+      "triggers": [
+        "what are the signs of a heavy period",
+        "signs of heavy period"
+      ],
+      "question": "What are the signs of a heavy period?",
+      "answer": "Signs of a heavy period include regularly needing to change pads, tampons, etc., after only 1-2 hours. Additionally, those who experience heavy periods may feel weak, tired, and sluggish."
+    },
+    {
+      "id": 7,
+      "intent": "what_are_the_effects_of_a_heavy_period",
+      "triggers": [
+        "what are the effects of a heavy period",
+        "effects of heavy period"
+      ],
+      "question": "What are the effects of a heavy period?",
+      "answer": "If one loses too much blood during their period, it can lead to iron deficiency. Iron is essential for the production of red blood cells, and a deficiency of iron can lead to anemia."
+    },
+    {
+      "id": 8,
+      "intent": "will_having_a_heavy_period_make_it_harder_to_get_pregnant",
+      "triggers": [
+        "will having a heavy period make it harder to get pregnant",
+        "will having heavy period make it harder to get pregnant"
+      ],
+      "question": "Will having a heavy period make it harder to get pregnant?",
+      "answer": "The possibility of having children will depend on what’s causing the heavy flow, and a doctor’s discretion is advised if any concerns are present."
+    },
+    {
+      "id": 9,
+      "intent": "what_can_cause_light_periods",
+      "triggers": [
+        "what can cause light periods",
+        "cause light periods"
+      ],
+      "question": "What can cause light periods?",
+      "answer": "Light periods can be caused by factors such as age, changes in body weight, exercise, and stress. Occasionally, a light period can indicate pregnancy or a hormone-related condition."
+    },
+    {
+      "id": 10,
+      "intent": "when_do_light_periods_become_concerning",
+      "triggers": [
+        "when do light periods become concerning",
+        "light periods become concerning"
+      ],
+      "question": "When do light periods become concerning?",
+      "answer": "Periods that are lighter than usual are not usually concerning. However, if one consistently experiences light periods or skips periods, they should talk with a doctor."
+    },
+    {
+      "id": 11,
+      "intent": "what_are_the_symptoms_of_a_light_period",
+      "triggers": [
+        "what are the symptoms of a light period",
+        "symptoms of light period"
+      ],
+      "question": "What are the symptoms of a light period?",
+      "answer": "Symptoms of a light period are indicated by a period that is shorter than usual, fewer pad changes, or bleeding that doesn’t resemble a steady flow over a few days."
+    },
+    {
+      "id": 12,
+      "intent": "how_do_you_know_if_your_period_is_lighter_or_heavier_than_usual",
+      "triggers": [
+        "how do you know if your period is lighter or heavier than usual",
+        "know if period lighter or heavier than usual"
+      ],
+      "question": "How do you know if your period is lighter or heavier than usual?",
+      "answer": "One can monitor if their periods are lighter or heavier than usual by keeping track of how many tampons or pads they use in a journal."
+    },
+    {
+      "id": 13,
+      "intent": "are_there_external_factors_causing_a_heavier_period",
+      "triggers": [
+        "are there external factors causing a heavier period",
+        "there external factors causing heavier period"
+      ],
+      "question": "Are there external factors causing a heavier period?",
+      "answer": "The type of symptoms you experience and your personal situation may give your doctor more indicators for possible causes. Illnesses you have, genetic illnesses, medications taken, and psychological stress may affect you."
+    },
+    {
+      "id": 14,
+      "intent": "can_birth_control_cause_your_period_to_become_lighter",
+      "triggers": [
+        "can birth control cause your period to become lighter",
+        "birth control cause period to become lighter"
+      ],
+      "question": "Can birth control cause your period to become lighter?",
+      "answer": "Yes, birth control pills can cause a reduction in blood flow due to the low hormone dosages in the pills."
+    },
+    {
+      "id": 15,
+      "intent": "how_can_birth_control_affect_the_consistency_of_your_cycle",
+      "triggers": [
+        "how can birth control affect the consistency of your cycle",
+        "birth control affect consistency of cycle"
+      ],
+      "question": "How can birth control affect the consistency of your cycle?",
+      "answer": "A doctor may recommend birth control to help control a person’s cycle. Some types of birth control contain hormones that can cause a cycle to become more consistent."
+    },
+    {
+      "id": 16,
+      "intent": "is_it_concerning_if_you_naturally_have_a_lighter_period",
+      "triggers": [
+        "is it concerning if you naturally have a lighter period",
+        "it concerning if naturally have lighter period"
+      ],
+      "question": "Is it concerning if you naturally have a lighter period?",
+      "answer": "If a lighter period is your body’s natural state, then it’s likely that it won’t have an impact on your health or fertility."
+    },
+    {
+      "id": 17,
+      "intent": "how_much_is_a_short_menstrual_cycle",
+      "triggers": [
+        "how much is a short menstrual cycle",
+        "much short menstrual cycle"
+      ],
+      "question": "How much is a short menstrual cycle?",
+      "answer": "A cycle shorter than 21-35 days is considered short."
+    },
+    {
+      "id": 18,
+      "intent": "why_might_a_period_be_irregular_during_puberty",
+      "triggers": [
+        "why might a period be irregular during puberty",
+        "might period be irregular during puberty"
+      ],
+      "question": "Why might a period be irregular during puberty?",
+      "answer": "Teens and tweens may have short or irregular periods because their estrogen or hormone levels haven’t fully balanced out."
+    },
+    {
+      "id": 19,
+      "intent": "how_does_age_affect_your_period_flow",
+      "triggers": [
+        "how does age affect your period flow",
+        "age affect period flow"
+      ],
+      "question": "How does age affect your period flow?",
+      "answer": "Women approaching menopause may experience irregular or short periods because of fluctuating hormones that make periods unpredictable during their last fertile years."
+    },
+    {
+      "id": 20,
+      "intent": "when_is_a_light_period_a_sign_of_pregnancy",
+      "triggers": [
+        "when is a light period a sign of pregnancy",
+        "light period sign of pregnancy"
+      ],
+      "question": "When is a light period a sign of pregnancy?",
+      "answer": "Light periods may indicate pregnancy when your bleeding becomes nonexistent or lighter. Ectopic pregnancy may also be indicated when a woman experiences a missed period, abnormal vaginal bleeding, or abdominal pain that often occurs 4-12 weeks after the last normal period."
+    },
+    {
+      "id": 21,
+      "intent": "what_rare_issues_may_lighter_or_heavier_periods_indicate",
+      "triggers": [
+        "what rare issues may lighter or heavier periods indicate",
+        "rare issues may lighter or heavier periods indicate"
+      ],
+      "question": "What rare issues may lighter or heavier periods indicate?",
+      "answer": "A common sign of polycystic ovary syndrome is experiencing few or irregular periods. The hormonal and metabolic condition affects around 1-10 women of childbearing age. Other reproductive conditions include hypothyroidism."
+    },
+    {
+      "id": 22,
+      "intent": "how_does_your_lifestyle_affect_your_period_flow",
+      "triggers": [
+        "how does your lifestyle affect your period flow",
+        "lifestyle affect period flow"
+      ],
+      "question": "How does your lifestyle affect your period flow?",
+      "answer": "A sedentary lifestyle, weight gain, high stress, intense physical activity, or nutrition issues can lead to lighter periods."
+    },
+    {
+      "id": 23,
+      "intent": "when_should_you_see_a_doctor_for_a_lighter_flow",
+      "triggers": [
+        "when should you see a doctor for a lighter flow",
+        "see doctor for lighter flow"
+      ],
+      "question": "When should you see a doctor for a lighter flow?",
+      "answer": "If a lighter flow becomes a pattern, it should be checked by a doctor. Other symptoms that can cause concern include missing a cycle every month while not being pregnant or pelvic pain. If a light period is accompanied by persistent pain, abnormal discharge, or extreme fatigue, it may indicate other underlying health issues."
+    },
+    {
+      "id": 24,
+      "intent": "how_can_lighter_periods_be_treated",
+      "triggers": [
+        "how can lighter periods be treated",
+        "lighter periods be treated"
+      ],
+      "question": "How can lighter periods be treated?",
+      "answer": "Lighter periods can be treated by adjusting hormonal contraception, weight management, stress reduction, addressing thyroid disorders, or occasionally surgery. Moderating activity or nutrition levels can also regulate your flow."
+    },
+    {
+      "id": 25,
+      "intent": "what_are_the_effects_of_stress_on_your_period_flow",
+      "triggers": [
+        "what are the effects of stress on your period flow",
+        "effects of stress on period flow"
+      ],
+      "question": "What are the effects of stress on your period flow?",
+      "answer": "Emotional, nutritional, or physical stress can cause an increase in endorphins and cortisol secretion, which interrupts hormone production. This interruption can cause an abnormal cycle."
+    },
+    {
+      "id": 26,
+      "intent": "how_likely_are_you_to_recover_from_absent_periods",
+      "triggers": [
+        "how likely are you to recover from absent periods",
+        "likely to recover from absent periods"
+      ],
+      "question": "How likely are you to recover from absent periods?",
+      "answer": "Over 70% of women recover from absent periods when the cause was associated with stress or weight loss."
+    },
+    {
+      "id": 27,
+      "intent": "what_are_the_effects_of_short_term_stress_on_your_period",
+      "triggers": [
+        "what are the effects of short-term stress on your period",
+        "effects of short-term stress on period"
+      ],
+      "question": "What are the effects of short-term stress on your period?",
+      "answer": "If the stress you experience is short-term, then you may miss a period, or it may come a few days late."
+    },
+    {
+      "id": 28,
+      "intent": "what_are_the_effects_of_long_term_stress_on_your_period",
+      "triggers": [
+        "what are the effects of long-term stress on your period",
+        "effects of long-term stress on period"
+      ],
+      "question": "What are the effects of long-term stress on your period?",
+      "answer": "Long-term stress may cause irregular or absent periods for longer than 3-6 months, causing a need to seek medical attention, especially if the individual is not pregnant."
+    },
+    {
+      "id": 29,
+      "intent": "what_can_happen_if_you_continue_to_skip_periods",
+      "triggers": [
+        "what can happen if you continue to skip periods",
+        "happen if continue to skip periods"
+      ],
+      "question": "What can happen if you continue to skip periods?",
+      "answer": "If you continue to skip periods, your body will eventually develop a hormonal imbalance and cause other health issues."
+    },
+    {
+      "id": 30,
+      "intent": "how_long_can_stress_delay_your_period",
+      "triggers": [
+        "how long can stress delay your period",
+        "long stress delay period"
+      ],
+      "question": "How long can stress delay your period?",
+      "answer": "Depending on how long the stress continues, your period will go absent for an extended period of time."
+    },
+    {
+      "id": 31,
+      "intent": "what_conditions_can_cause_a_heavy_flow",
+      "triggers": [
+        "what conditions can cause a heavy flow",
+        "conditions cause heavy flow"
+      ],
+      "question": "What conditions can cause a heavy flow?",
+      "answer": "Hormonal imbalance, ovarian problems, uterine fibroids, polyps, adenomyosis, IUD, pregnancy, cancer, genetic bleeding disorders, medicines, or other medical conditions can cause a heavy flow."
+    },
+    {
+      "id": 32,
+      "intent": "can_a_heavy_period_flow_be_genetic",
+      "triggers": [
+        "can a heavy period flow be genetic",
+        "heavy period flow be genetic"
+      ],
+      "question": "Can a heavy period flow be genetic?",
+      "answer": "Yes, some genetic bleeding disorders can cause a heavy flow. For instance, von Willebrand’s disease is a condition where the blood does not clot properly."
+    },
+    {
+      "id": 33,
+      "intent": "what_diseases_can_cause_a_heavy_flow",
+      "triggers": [
+        "what diseases can cause a heavy flow",
+        "diseases cause heavy flow"
+      ],
+      "question": "What diseases can cause a heavy flow?",
+      "answer": "Genetic bleeding disorders and liver, kidney, and thyroid disease can cause heavy bleeding."
+    },
+    {
+      "id": 34,
+      "intent": "is_it_normal_to_have_pain_when_your_period_flow_is_heavy",
+      "triggers": [
+        "is it normal to have pain when your period flow is heavy",
+        "it normal to have pain period flow heavy"
+      ],
+      "question": "Is it normal to have pain when your period flow is heavy?",
+      "answer": "Severe pain may occasionally come along with a heavy flow. Menstrual cramps caused by heavy bleeding are also known as dysmenorrhea."
+    },
+    {
+      "id": 35,
+      "intent": "can_folic_acid_supplements_be_beneficial_for_women_with_heavy_periods",
+      "triggers": [
+        "can folic acid supplements be beneficial for women with heavy periods",
+        "folic acid supplements be beneficial for women with heavy periods"
+      ],
+      "question": "Can folic acid supplements be beneficial for women with heavy periods?",
+      "answer": "Folic acid supplements won’t ease heavy periods because it is a B vitamin. However, a health care provider may recommend a multivitamin that contains folic acid to help reduce anemia."
+    },
+    {
+      "id": 36,
+      "intent": "what_should_you_do_if_you_dread_your_period_because_of_a_heavy_flow",
+      "triggers": [
+        "what should you do if you dread your period because of a heavy flow",
+        "if dread period because of heavy flow"
+      ],
+      "question": "What should you do if you dread your period because of a heavy flow?",
+      "answer": "If heavy menstrual bleeding, blood flow, and cramping make it harder to do everyday activities, then you should talk with your doctor to determine the treatment you can use to help reduce the flow."
+    },
+    {
+      "id": 37,
+      "intent": "when_should_you_see_a_doctor_regarding_a_heavy_menstrual_flow",
+      "triggers": [
+        "when should you see a doctor regarding a heavy menstrual flow",
+        "see doctor regarding heavy menstrual flow"
+      ],
+      "question": "When should you see a doctor regarding a heavy menstrual flow?",
+      "answer": "You should seek medical help if you are bleeding between periods or after menopause. Additionally, heavy bleeding may become concerning depending on the frequency of the bleeding."
+    },
+    {
+      "id": 38,
+      "intent": "what_helps_determine_a_regular_period_flow",
+      "triggers": [
+        "what helps determine a regular period flow",
+        "helps determine regular period flow"
+      ],
+      "question": "What helps determine a regular period flow?",
+      "answer": "Progesterone is the hormone most responsible for regular periods. If the body does not make enough progesterone, it can result in heavy or unexpected bleeding."
+    },
+    {
+      "id": 39,
+      "intent": "how_can_age_affect_heavy_bleeding",
+      "triggers": [
+        "how can age affect heavy bleeding",
+        "age affect heavy bleeding"
+      ],
+      "question": "How can age affect heavy bleeding?",
+      "answer": "For older women of reproductive age, heavy bleeding is often caused by uterine issues like fibroids, polyps, and adenomyosis. However, there are also other problems that could cause heavy bleeding."
+    },
+    {
+      "id": 40,
+      "intent": "what_can_cause_an_irregular_period_or_heavy_flow_for_teenagers",
+      "triggers": [
+        "what can cause an irregular period or heavy flow for teenagers",
+        "cause irregular period or heavy flow for teenagers"
+      ],
+      "question": "What can cause an irregular period or heavy flow for teenagers?",
+      "answer": "It is most likely for teenagers to have cycles without an egg release during the first year after their first period."
+    },
+    {
+      "id": 41,
+      "intent": "what_are_some_symptoms_of_heavy_menstrual_bleeding_that_may_require_the_observat",
+      "triggers": [
+        "what are some symptoms of heavy menstrual bleeding that may require the observation of a healthcare provider",
+        "some symptoms of heavy menstrual bleeding that may require observation of healthcare provider"
+      ],
+      "question": "What are some symptoms of heavy menstrual bleeding that may require the observation of a healthcare provider?",
+      "answer": "If a heavy menstrual flow keeps you from doing normal tasks, causes constant pain in the lower part of the stomach during your periods, or causes you to become tired or short of breath, you should see a healthcare provider."
+    },
+    {
+      "id": 42,
+      "intent": "who_is_at_risk_for_heavy_menstrual_bleeding",
+      "triggers": [
+        "who is at risk for heavy menstrual bleeding",
+        "at risk for heavy menstrual bleeding"
+      ],
+      "question": "Who is at risk for heavy menstrual bleeding?",
+      "answer": "Heavy menstrual bleeding is a common problem that affects more than 10 million American women each year. This means about 1 out of 5 women have a heavy flow."
+    },
+    {
+      "id": 43,
+      "intent": "can_pregnancy_affect_your_period_flow",
+      "triggers": [
+        "can pregnancy affect your period flow",
+        "pregnancy affect period flow"
+      ],
+      "question": "Can pregnancy affect your period flow?",
+      "answer": "A miscarriage or ectopic pregnancy can cause heavy menstrual bleeding."
+    },
+    {
+      "id": 44,
+      "intent": "what_can_healthcare_providers_use_to_diagnose_heavy_menstrual_bleeding",
+      "triggers": [
+        "what can healthcare providers use to diagnose heavy menstrual bleeding",
+        "healthcare providers use to diagnose heavy menstrual bleeding"
+      ],
+      "question": "What can healthcare providers use to diagnose heavy menstrual bleeding?",
+      "answer": "A healthcare provider can use a blood test, a pap test, an endometrial biopsy, or an ultrasound to determine if you have a bleeding problem."
+    },
+    {
+      "id": 45,
+      "intent": "should_you_inquire_with_a_healthcare_provider_if_you_have_worries_about_your_per",
+      "triggers": [
+        "should you inquire with a healthcare provider if you have worries about your period flow",
+        "inquire with healthcare provider if have worries about period flow"
+      ],
+      "question": "Should you inquire with a healthcare provider if you have worries about your period flow?",
+      "answer": "Talking openly with your healthcare provider is crucial to make sure a proper diagnosis is conducted and the right treatment is provided."
+    },
+    {
+      "id": 46,
+      "intent": "what_type_of_treatment_will_be_provided_for_a_heavy_menstrual_flow",
+      "triggers": [
+        "what type of treatment will be provided for a heavy menstrual flow",
+        "type of treatment will be provided for heavy menstrual flow"
+      ],
+      "question": "What type of treatment will be provided for a heavy menstrual flow?",
+      "answer": "The type of treatment you will receive depends on the cause of your bleeding and its seriousness. Age, health, and medical history will also be considered when determining the treatment."
+    },
+    {
+      "id": 47,
+      "intent": "how_many_women_are_aware_of_a_bleeding_disorder_they_have",
+      "triggers": [
+        "how many women are aware of a bleeding disorder they have",
+        "many women aware of bleeding disorder they have"
+      ],
+      "question": "How many women are aware of a bleeding disorder they have?",
+      "answer": "1% of women and girls have a bleeding disorder in the United States and are unaware of their condition."
+    },
+    {
+      "id": 48,
+      "intent": "what_are_the_less_common_signs_of_a_bleeding_disorder",
+      "triggers": [
+        "what are the less common signs of a bleeding disorder",
+        "less common signs of bleeding disorder"
+      ],
+      "question": "What are the less common signs of a bleeding disorder?",
+      "answer": "Other signs of a bleeding disorder include frequent or hard-to-stop nosebleeds, bruising often regardless of the presence of an injury, continuous bleeding that takes a long time to stop, and heavy bleeding after a procedure."
+    },
+    {
+      "id": 49,
+      "intent": "can_nonsteroidal_anti_inflammatory_drugs_lighten_bleeding",
+      "triggers": [
+        "can nonsteroidal anti-inflammatory drugs lighten bleeding",
+        "nonsteroidal anti-inflammatory drugs lighten bleeding"
+      ],
+      "question": "Can nonsteroidal anti-inflammatory drugs lighten bleeding?",
+      "answer": "Nonsteroidal anti-inflammatory drugs like ibuprofen can reduce pain and make your periods lighter. However, some nonsteroidal anti-inflammatory drugs can make bleeding worse."
+    },
+    {
+      "id": 50,
+      "intent": "can_diet_changes_reduce_the_effects_of_heavy_periods",
+      "triggers": [
+        "can diet changes reduce the effects of heavy periods",
+        "diet changes reduce effects of heavy periods"
+      ],
+      "question": "Can diet changes reduce the effects of heavy periods?",
+      "answer": "Eating a diet that is rich in iron can help prevent anemia. Foods with processed sugar, trans-fats, and starchy carbs can make menorrhagia symptoms worse."
+    },
+    {
+      "id": 51,
+      "intent": "how_can_you_track_your_cycle_if_you_re_worried_about_your_flow",
+      "triggers": [
+        "how can you track your cycle if you’re worried about your flow",
+        "track cycle if ’re worried about flow"
+      ],
+      "question": "How can you track your cycle if you’re worried about your flow?",
+      "answer": "Start keeping track of your menstrual cycle on a calendar. You can track your start day every month for several months in a row to identify the consistency of your periods. If you are worried about the length, you can also record the end dates to determine if it is longer or shorter than usual."
+    },
+    {
+      "id": 52,
+      "intent": "what_should_you_record_when_you_are_tracking_your_period",
+      "triggers": [
+        "what should you record when you are tracking your period",
+        "record tracking period"
+      ],
+      "question": "What should you record when you are tracking your period?",
+      "answer": "Track the heaviness of your bleeding; you can compare it to whether it feels lighter or heavier than usual and how often you have to change your tampon or pad. You can also record bleeding between periods, the pain you feel, or changes in behavior."
+    },
+    {
+      "id": 53,
+      "intent": "is_it_concerning_if_you_are_bleeding_between_your_periods",
+      "triggers": [
+        "is it concerning if you are bleeding between your periods",
+        "it concerning if bleeding between periods"
+      ],
+      "question": "Is it concerning if you are bleeding between your periods?",
+      "answer": "Bleeding between periods, also known as intermenstrual bleeding, can be concerning and should be addressed with a doctor."
+    },
+    {
+      "id": 54,
+      "intent": "what_can_unscheduled_periods_be_caused_by",
+      "triggers": [
+        "what can unscheduled periods be caused by",
+        "unscheduled periods be caused by"
+      ],
+      "question": "What can unscheduled periods be caused by?",
+      "answer": "Unscheduled periods are most likely due to reversible contraceptives like birth control pills, injections, implant devices, and other medical causes. Unscheduled bleeding with contraceptives is most prominent in the first 90 days after beginning the contraceptive."
+    },
+    {
+      "id": 55,
+      "intent": "are_the_effects_of_using_birth_control_pills_on_your_periods_predictable",
+      "triggers": [
+        "are the effects of using birth control pills on your periods predictable",
+        "effects of using birth control pills on periods predictable"
+      ],
+      "question": "Are the effects of using birth control pills on your periods predictable?",
+      "answer": "No, it is not possible to predict the effects that birth control pills can have on your period flow. Some women may have heavy bleeding, while others will experience no periods. There is no way of knowing what effects a woman may experience prior to using the pills."
+    },
+    {
+      "id": 56,
+      "intent": "can_you_bleed_during_your_pregnancy",
+      "triggers": [
+        "can you bleed during your pregnancy",
+        "bleed during pregnancy"
+      ],
+      "question": "Can you bleed during your pregnancy?",
+      "answer": "Another cause of bleeding between periods is pregnancy. 15-25% of pregnant women will have first-trimester bleeding, also known as Lykke, which can be confused with intermenstrual bleeding."
+    },
+    {
+      "id": 57,
+      "intent": "how_much_do_you_normally_bleed",
+      "triggers": [
+        "how much do you normally bleed",
+        "much normally bleed"
+      ],
+      "question": "How much do you normally bleed?",
+      "answer": "The amount of flow for an entire period is 4 teaspoons to 12 teaspoons, but it may feel like more."
+    },
+    {
+      "id": 58,
+      "intent": "is_it_normal_if_your_flow_feels_heavier_some_days",
+      "triggers": [
+        "is it normal if your flow feels heavier some days",
+        "it normal if flow feels heavier some days"
+      ],
+      "question": "Is it normal if your flow feels heavier some days?",
+      "answer": "Yes, you can expect your period flow to be light on some days and heavier on others."
+    },
+    {
+      "id": 59,
+      "intent": "what_does_bleeding_too_much_look_like",
+      "triggers": [
+        "what does bleeding too much look like",
+        "bleeding too much look like"
+      ],
+      "question": "What does bleeding too much look like?",
+      "answer": "Bleeding can look more than it is. But if you soak a pad in 1 hour or less, be sure to address it to a medical professional."
+    },
+    {
+      "id": 60,
+      "intent": "what_do_bleeding_disorders_mean_for_your_period",
+      "triggers": [
+        "what do bleeding disorders mean for your period",
+        "bleeding disorders mean for period"
+      ],
+      "question": "What do bleeding disorders mean for your period?",
+      "answer": "Bleeding disorders can cause heavy periods, but having heavy periods doesn’t mean you have a bleeding disorder."
+    },
+    {
+      "id": 61,
+      "intent": "why_does_my_period_seem_different_compared_to_others",
+      "triggers": [
+        "why does my period seem different compared to others",
+        "my period seem different compared to others"
+      ],
+      "question": "Why does my period seem different compared to others?",
+      "answer": "The amount of flow you may get on your period varies person to person. Heavy or lighter periods are only concerning if they are heavier or lighter than normal."
+    },
+    {
+      "id": 62,
+      "intent": "can_you_miss_a_period_but_not_be_pregnant",
+      "triggers": [
+        "can you miss a period but not be pregnant",
+        "miss period but not be pregnant"
+      ],
+      "question": "Can you miss a period but not be pregnant?",
+      "answer": "Women can miss their period for many reasons, including infection, nutritional changes, stress, etc. If you skip a period and get a negative pregnancy test, you should see a doctor to make sure there isn’t an underlying issue."
+    },
+    {
+      "id": 63,
+      "intent": "what_can_irregular_periods_mean",
+      "triggers": [
+        "what can irregular periods mean",
+        "irregular periods mean"
+      ],
+      "question": "What can irregular periods mean?",
+      "answer": "Consistent irregular periods are signs that you may need medical attention, which may be due to an underlying disorder."
+    },
+    {
+      "id": 64,
+      "intent": "how_many_days_typically_pass_between_periods",
+      "triggers": [
+        "how many days typically pass between periods",
+        "many days typically pass between periods"
+      ],
+      "question": "How many days typically pass between periods?",
+      "answer": "The average menstrual cycle is about 28 days. Periods typically occur every 21-35 days."
+    },
+    {
+      "id": 65,
+      "intent": "is_it_concerning_if_periods_feel_closer_farther_apart",
+      "triggers": [
+        "is it concerning if periods feel closer/farther apart",
+        "it concerning if periods feel closer/farther apart"
+      ],
+      "question": "Is it concerning if periods feel closer/farther apart?",
+      "answer": "Periods that are closer together or further apart aren’t always a cause for concern. Tracking your menstrual pattern can help you understand your cycle and symptoms you may need to discuss with your doctor."
+    },
+    {
+      "id": 66,
+      "intent": "what_if_your_period_is_more_frequent",
+      "triggers": [
+        "what if your period is more frequent",
+        "if period more frequent"
+      ],
+      "question": "What if your period is more frequent?",
+      "answer": "There are some situations where your period may come more frequently than every 21 days. People in perimenopause may experience shorter, more irregular cycles until they reach menopause."
+    },
+    {
+      "id": 67,
+      "intent": "what_are_the_factors_that_may_shorten_cycle_length",
+      "triggers": [
+        "what are the factors that may shorten cycle length",
+        "factors that may shorten cycle length"
+      ],
+      "question": "What are the factors that may shorten cycle length?",
+      "answer": "Factors that may shorten cycle length include stress, temporary illness like the flu, significant weight changes, hormonal birth control, uterine fibroids, and lack of ovulation."
+    },
+    {
+      "id": 68,
+      "intent": "what_if_your_cycles_seem_consistently_irregular",
+      "triggers": [
+        "what if your cycles seem consistently irregular",
+        "if cycles seem consistently irregular"
+      ],
+      "question": "What if your cycles seem consistently irregular?",
+      "answer": "If you are still experiencing shorter cycles, you should see a doctor after six weeks of irregularity. They can help determine the cause and give advice."
+    },
+    {
+      "id": 69,
+      "intent": "what_if_your_periods_are_further_apart",
+      "triggers": [
+        "what if your periods are further apart",
+        "if periods further apart"
+      ],
+      "question": "What if your periods are further apart?",
+      "answer": "Occasional lateness in cycles may be caused by stress, intense exercise, significant weight changes, hormonal birth control, and perimenopause."
+    },
+    {
+      "id": 70,
+      "intent": "how_often_do_you_have_periods_during_your_first_year_of_menstruation",
+      "triggers": [
+        "how often do you have periods during your first year of menstruation",
+        "often have periods during first year of menstruation"
+      ],
+      "question": "How often do you have periods during your first year of menstruation?",
+      "answer": "The average person experiences at least four periods during their first year of menstruation."
+    },
+    {
+      "id": 71,
+      "intent": "what_is_the_average_number_of_periods_a_year",
+      "triggers": [
+        "what is the average number of periods a year",
+        "average number of periods year"
+      ],
+      "question": "What is the average number of periods a year?",
+      "answer": "During the first year, there will be at least four periods, but the number will gradually increase over time. Adults have at least nine periods a year."
+    },
+    {
+      "id": 72,
+      "intent": "can_periods_be_naturally_further_apart",
+      "triggers": [
+        "can periods be naturally further apart",
+        "periods be naturally further apart"
+      ],
+      "question": "Can periods be naturally further apart?",
+      "answer": "Yes, some periods may naturally occur more than 35 days apart. The average adult has at least nine periods a year."
+    },
+    {
+      "id": 73,
+      "intent": "how_can_medical_conditions_cause_periods_to_be_farther_apart",
+      "triggers": [
+        "how can medical conditions cause periods to be farther apart",
+        "medical conditions cause periods to be farther apart"
+      ],
+      "question": "How can medical conditions cause periods to be farther apart?",
+      "answer": "An underlying condition may cause chronic lateness. Polycystic ovary syndrome, or PCOS, can cause irregular periods, excess hair growth, and unexpected weight gain."
+    },
+    {
+      "id": 74,
+      "intent": "what_are_some_reasons_behind_occasional_periods",
+      "triggers": [
+        "what are some reasons behind occasional periods",
+        "some reasons behind occasional periods"
+      ],
+      "question": "What are some reasons behind occasional periods?",
+      "answer": "Premature ovarian failure may cause irregular or occasional periods in people under the age of 40. Pregnancy is another possibility."
+    },
+    {
+      "id": 75,
+      "intent": "what_should_you_do_if_you_think_you_have_a_condition_or_are_pregnant_due_to_the_",
+      "triggers": [
+        "what should you do if you think you have a condition or are pregnant due to the irregularities of your period flow",
+        "if think have condition or pregnant due to irregularities of period flow"
+      ],
+      "question": "What should you do if you think you have a condition or are pregnant due to the irregularities of your period flow?",
+      "answer": "If you suspect you are pregnant or have another underlying condition that may cause an irregular flow, then you should make an appointment with a doctor to assess your symptoms and address your concerns."
+    },
+    {
+      "id": 76,
+      "intent": "what_can_be_helpful_to_record_about_your_irregular_flow",
+      "triggers": [
+        "what can be helpful to record about your irregular flow",
+        "be helpful to record about irregular flow"
+      ],
+      "question": "What can be helpful to record about your irregular flow?",
+      "answer": "It may be helpful to record flow volume, aches, pains, unexpected bleeding, and mood changes."
+    },
+    {
+      "id": 77,
+      "intent": "when_should_you_see_a_doctor_or_healthcare_provider",
+      "triggers": [
+        "when should you see a doctor or healthcare provider",
+        "see doctor or healthcare provider"
+      ],
+      "question": "When should you see a doctor or healthcare provider?",
+      "answer": "You should seek professional help if you haven’t had a period for 3 months, have a period more than once every 21 days, or have a period less than every 35 days. Additionally, you should also see a doctor if your periods last for more than one week at a time or you soak through one or more menstrual products per hour."
+    },
+    {
+      "id": 78,
+      "intent": "should_you_be_worried_if_your_period_is_light",
+      "triggers": [
+        "should you be worried if your period is light",
+        "be worried if period light"
+      ],
+      "question": "Should you be worried if your period is light?",
+      "answer": "A light period that stops before you expect it may be caused by weight, age or changes in medication. A missed period may indicate an underlying condition or pregnancy."
+    },
+    {
+      "id": 79,
+      "intent": "how_is_your_flow_associated_with_pregnancy",
+      "triggers": [
+        "how is your flow associated with pregnancy",
+        "flow associated with pregnancy"
+      ],
+      "question": "How is your flow associated with pregnancy?",
+      "answer": "If you’re pregnant, it's unlikely you will have a period. Your periods may not come back for months after you give birth."
+    },
+    {
+      "id": 80,
+      "intent": "what_are_examples_of_birth_control_that_can_cause_light_periods",
+      "triggers": [
+        "what are examples of birth control that can cause light periods",
+        "examples of birth control that cause light periods"
+      ],
+      "question": "What are examples of birth control that can cause light periods?",
+      "answer": "Birth control methods like pills, patch, ring, and shot may cause lighter or skipped periods. You may experience irregular periods if you have started or stopped using birth control recently."
+    },
+    {
+      "id": 81,
+      "intent": "how_does_stress_affect_your_period_flow",
+      "triggers": [
+        "how does stress affect your period flow",
+        "stress affect period flow"
+      ],
+      "question": "How does stress affect your period flow?",
+      "answer": "If you’re stressed, your brain can alter the menstrual cycle hormones and you may experience skipped or lighter periods. Your periods should eventually return to normal after the stress has passed."
+    },
+    {
+      "id": 82,
+      "intent": "how_can_exercising_affect_period_flow",
+      "triggers": [
+        "how can exercising affect period flow",
+        "exercising affect period flow"
+      ],
+      "question": "How can exercising affect period flow?",
+      "answer": "People who exercise frequently may experience changes to their period due to stress, low body weight, or the use of a lot of body energy, resulting in altered periods."
+    },
+    {
+      "id": 83,
+      "intent": "how_can_eating_disorders_affect_period_flow",
+      "triggers": [
+        "how can eating disorders affect period flow",
+        "eating disorders affect period flow"
+      ],
+      "question": "How can eating disorders affect period flow?",
+      "answer": "Types of eating disorders that may cause irregular periods include anorexia and bulimia. Eating disorders can lead to low body weight, which then alters hormones that regulate your period."
+    },
+    {
+      "id": 84,
+      "intent": "can_lighter_periods_indicate_serious_medical_conditions",
+      "triggers": [
+        "can lighter periods indicate serious medical conditions",
+        "lighter periods indicate serious medical conditions"
+      ],
+      "question": "Can lighter periods indicate serious medical conditions?",
+      "answer": "Unusual or irregular periods may be a sign of a serious health condition. Regular periods indicate your body is functioning well, but a light period could be an indicator of problems with hormone levels or another medical condition. Issues with reproductive organs can lead to irregular periods"
+    },
+    {
+      "id": 85,
+      "intent": "how_can_your_lifestyle_affect_how_light_your_period_is",
+      "triggers": [
+        "how can your lifestyle affect how light your period is",
+        "lifestyle affect light period"
+      ],
+      "question": "How can your lifestyle affect how light your period is?",
+      "answer": "Persistent and problematic light periods may be treated with changes to your lifestyle and medications. Sometimes the use of hormonal birth control can help your periods become normal. However, if the light periods are a sign of a serious condition, treatment may include other medications or methods."
+    },
+    {
+      "id": 86,
+      "intent": "when_should_you_not_be_worried_about_a_light_period",
+      "triggers": [
+        "when should you not be worried about a light period",
+        "not be worried about light period"
+      ],
+      "question": "When should you not be worried about a light period?",
+      "answer": "Light periods may not be a sign that you have something to worry about. A period as short as 2-3 days is considered normal. Make sure to track your light periods and talk with your doctor."
+    },
+    {
+      "id": 87,
+      "intent": "when_is_a_cycle_considered_irregular",
+      "triggers": [
+        "when is a cycle considered irregular",
+        "cycle considered irregular"
+      ],
+      "question": "When is a cycle considered irregular?",
+      "answer": "A cycle is considered irregular if it varies by more than 9 days from month to month. Skipping periods also signals irregularity."
+    },
+    {
+      "id": 88,
+      "intent": "are_small_changes_in_cycle_length_concerning",
+      "triggers": [
+        "are small changes in cycle length concerning",
+        "small changes in cycle length concerning"
+      ],
+      "question": "Are small changes in cycle length concerning?",
+      "answer": "Minor variation in the length of your cycle is normal and expected."
+    },
+    {
+      "id": 89,
+      "intent": "can_heavy_periods_cause_fatigue_or_other_health_issues",
+      "triggers": [
+        "can heavy periods cause fatigue or other health issues",
+        "heavy periods cause fatigue or other health issues"
+      ],
+      "question": "Can heavy periods cause fatigue or other health issues?",
+      "answer": "Heavy bleeding can cause fatigue and other problems. When you lose excessive blood, your body’s iron depletes faster than it can be replenished, which may cause exhaustion, weakness, and pale skin."
+    },
+    {
+      "id": 90,
+      "intent": "what_are_some_mistaken_reasons_that_period_flow_may_cause",
+      "triggers": [
+        "what are some mistaken reasons that period flow may cause",
+        "some mistaken reasons that period flow may cause"
+      ],
+      "question": "What are some mistaken reasons that period flow may cause?",
+      "answer": "Many women mistakenly attribute being busy or stressed to iron deficiency anemia. Iron deficiency anemia may be caused by excessive bleeding."
+    },
+    {
+      "id": 91,
+      "intent": "can_symptoms_of_a_concerning_flow_be_unnoticeable",
+      "triggers": [
+        "can symptoms of a concerning flow be unnoticeable",
+        "symptoms of concerning flow be unnoticeable"
+      ],
+      "question": "Can symptoms of a concerning flow be unnoticeable?",
+      "answer": "Yes, some symptoms often go unrecognized because the changes develop gradually over time. Feeling tired all the time might feel routine if your periods have always been heavy."
+    },
+    {
+      "id": 92,
+      "intent": "what_can_help_test_if_your_periods_are_affecting_your_health",
+      "triggers": [
+        "what can help test if your periods are affecting your health",
+        "help test if periods affecting health"
+      ],
+      "question": "What can help test if your periods are affecting your health?",
+      "answer": "A blood test can check your iron levels and determine if your periods are affecting your health. Treatment options for anemia include iron supplements or dietary changes."
+    },
+    {
+      "id": 93,
+      "intent": "can_unchecked_irregular_cycles_become_concerning",
+      "triggers": [
+        "can unchecked irregular cycles become concerning",
+        "unchecked irregular cycles become concerning"
+      ],
+      "question": "Can unchecked irregular cycles become concerning?",
+      "answer": "If irregular cycles are untreated, many conditions can increase the long-term risk of cardiovascular disease and osteoporosis."
+    },
+    {
+      "id": 94,
+      "intent": "how_does_your_cycle_change_according_to_age",
+      "triggers": [
+        "how does your cycle change according to age",
+        "cycle change according to age"
+      ],
+      "question": "How does your cycle change according to age?",
+      "answer": "Periods often get heavier when you are younger and become lighter in your 20s and 30s. In your 40s, your body will start to transition to menopause."
+    },
+    {
+      "id": 95,
+      "intent": "what_is_the_transition_to_menopause",
+      "triggers": [
+        "what is the transition to menopause",
+        "transition to menopause"
+      ],
+      "question": "What is the transition to menopause?",
+      "answer": "Your cycles may become irregular, being absent for a few months and then returning. They may also be shorter, last longer, be lighter, or heavier than usual."
+    },
+    {
+      "id": 96,
+      "intent": "why_should_i_keep_track_of_my_cycle",
+      "triggers": [
+        "why should i keep track of my cycle",
+        "i keep track of my cycle"
+      ],
+      "question": "Why should I keep track of my cycle?",
+      "answer": "If your periods are regular, tracking them will let you predict your next period. If your periods are not regular, tracking them can help you share issues you have with a doctor."
+    },
+    {
+      "id": 97,
+      "intent": "what_can_you_do_if_bleeding_causes_you_to_miss_activities",
+      "triggers": [
+        "what can you do if bleeding causes you to miss activities",
+        "if bleeding causes to miss activities"
+      ],
+      "question": "What can you do if bleeding causes you to miss activities?",
+      "answer": "Tracking period symptoms can help you and your doctor find suitable treatments. Severe bleeding that causes you to miss regular activities is not normal and should be treated."
+    },
+    {
+      "id": 98,
+      "intent": "how_may_your_flow_be_affected_by_perimenopause_the_transition_to_menopause",
+      "triggers": [
+        "how may your flow be affected by perimenopause/the transition to menopause",
+        "may flow be affected by perimenopause/ transition to menopause"
+      ],
+      "question": "How may your flow be affected by perimenopause/the transition to menopause?",
+      "answer": "Some women experience heavy bleeding during perimenopause."
+    },
+    {
+      "id": 99,
+      "intent": "what_should_you_do_if_you_haven_t_had_your_period_for_90_or_90_days",
+      "triggers": [
+        "what should you do if you haven’t had your period for 90 or 90+ days",
+        "if haven’t had period for 90 or 90+ days"
+      ],
+      "question": "What should you do if you haven’t had your period for 90 or 90+ days?",
+      "answer": "If you don’t have a period for 90 days and you are not pregnant or breastfeeding, talk to a doctor."
+    },
+    {
+      "id": 100,
+      "intent": "what_can_doctors_check_for_to_address_period_flow",
+      "triggers": [
+        "what can doctors check for to address period flow",
+        "doctors check for to address period flow"
+      ],
+      "question": "What can doctors check for to address period flow?",
+      "answer": "Your doctors can check for pregnancy or a health problem that can cause periods to stop or become irregular. Using this information, they can apply the suitable treatment or medication for you."
+    }
+  ],
+  "fallback": {
+    "intent": "fallback_unknown",
+    "message": "I'm not sure I understood that question. I can help answer questions about period flow, heavy periods, light periods, irregular periods, bleeding between periods, cycle length, and related menstrual flow concerns.",
+    "follow_up": [
+      "Can you describe your period flow question in a different way?",
+      "Are you asking about heavy flow, light flow, irregular periods, or bleeding between periods?",
+      "Has your period flow changed from what is normal for you?",
+      "How long has this change been happening?",
+      "Is the bleeding affecting your daily activities?"
+    ],
+    "examples": [
+      "How much is too much period flow?",
+      "What can cause light periods?",
+      "When should you see a doctor for a lighter flow?",
+      "What conditions can cause a heavy flow?",
+      "How many days typically pass between periods?",
+      "When is a cycle considered irregular?",
+      "Why should I keep track of my cycle?",
+      "What should you do if you haven’t had your period for 90 or 90+ days?"
+    ],
+    "tone": {
+      "style": "supportive",
+      "reading_level": "middle_school",
+      "voice": "friendly, calm, educational, and non-judgmental"
+    },
+    "retry_limit": {
+      "max_attempts": 3,
+      "messages": [
+        "I'm still having trouble understanding your question. Could you try describing your period flow concern differently?",
+        "I want to help, but I'm not sure what you're asking. Try mentioning whether the flow is heavy, light, irregular, or happening between periods.",
+        "I'm still unable to find a matching answer. You may want to ask a trusted adult, school nurse, parent, guardian, or healthcare provider for guidance."
+      ]
+    },
+    "safety_response": {
+      "message": "If your period symptoms are severe, persistent, unusual, or interfere with school, sleep, or daily activities, please talk to a trusted adult, parent, guardian, or healthcare provider.",
+      "emergency_message": "If you are bleeding very heavily, feel faint, have severe pain, or think you may be in immediate danger, seek urgent medical help."
+    }
+  }
+}
