@@ -29,7 +29,7 @@ const BOT_CONFIG = {
     title: "Period Flow Chatbot",
     icon: "💧",
     description:
-      "Ask about heavy or light flow, irregular periods, bleeding patterns, cycle timing, and tracking.",
+      "Ask about the various kinds of period flow, such as heavy or light flow, irregular bleeding, cycle timing, etc.",
     file: "flow.json",
     examples: [
       "How much is too much period flow?",
