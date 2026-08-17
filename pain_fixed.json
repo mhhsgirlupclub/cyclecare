@@ -37,7 +37,8 @@
       "id": 4,
       "intent": "pain_statistics",
       "triggers": [
-        "how common is period pain"
+        "how common is period pain",
+        "common"
       ],
       "question": "How common is period pain among women?",
       "answer": "Menstrual pain was reported by 84.1% of women, with 43.1% stating pain occurs with every period and 41% stating pain occurs occasionally."
