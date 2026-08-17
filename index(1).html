@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cycle Care</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="brand">
+        <div class="mark">CC</div>
+        <div>
+          <strong>Cycle Care</strong>
+          <small>Period health, one question at a time.</small>
+        </div>
+      </div>
+      <button id="chooseBtn" class="ghost">Choose chatbot</button>
+    </header>
+
+    <main>
+      <section id="chooser" class="hero">
+        <p class="eyebrow">WELCOME TO CYCLE CARE</p>
+        <h1>What would you like to ask about?</h1>
+        <p class="lead">
+          Choose a focused chatbot. Each one only searches its own question library.
+        </p>
+
+        <div class="grid">
+          <button class="card" data-bot="mood">
+            <div class="icon">😊</div>
+            <b>Mood</b>
+            <p>PMS, PMDD, anxiety, sadness, irritability, and mood changes.</p>
+          </button>
+
+          <button class="card" data-bot="pain">
+            <div class="icon">🩹</div>
+            <b>Pain</b>
+            <p>Cramps, headaches, back pain, nausea, and pain relief.</p>
+          </button>
+
+          <button class="card" data-bot="flow">
+            <div class="icon">💧</div>
+            <b>Period Flow</b>
+            <p>Heavy or light flow, irregular bleeding, cycle timing, and tracking.</p>
+          </button>
+
+          <button class="card" data-bot="changes">
+            <div class="icon">🌸</div>
+            <b>Physical Changes</b>
+            <p>Acne, bloating, fatigue, digestion, appetite, and body changes.</p>
+          </button>
+        </div>
+      </section>
+
+      <section id="chat" class="chat hidden">
+        <div class="layout">
+          <aside class="side">
+            <button id="backBtn" class="ghost">← All chatbots</button>
+            <div id="sideIcon" class="icon">😊</div>
+            <h2 id="sideTitle">Mood Chatbot</h2>
+            <p id="sideDesc"></p>
+            <div id="examples" class="examples"></div>
+            <p id="disclaimer" class="disclaimer"></p>
+          </aside>
+
+          <div class="chatbox">
+            <div class="top">
+              <div>
+                <strong id="chatTitle">Cycle Care</strong>
+                <small id="status">Ready</small>
+              </div>
+              <button id="clearBtn" class="ghost">Clear chat</button>
+            </div>
+
+            <div id="messages" class="messages"></div>
+
+            <form id="chatForm">
+              <input
+                id="messageInput"
+                type="text"
+                placeholder="Type your question here..."
+                autocomplete="off"
+              >
+              <button class="send" type="submit">Send</button>
+            </form>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Important: normal script, NOT type="module" -->
+  <script src="chatbot.js" defer></script>
+</body>
+</html>
