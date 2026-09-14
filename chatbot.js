@@ -618,28 +618,25 @@ document.addEventListener(
       );
 
 
-    document
-      .getElementById("backBtn")
-      .addEventListener(
-        "click",
-        showHome
-      );
+const backBtn = document.getElementById("backBtn");
+
+if (backBtn) {
+  backBtn.addEventListener("click", showHome);
+}
 
 
-    document
-      .getElementById("chooseBtn")
-      .addEventListener(
-        "click",
-        showHome
-      );
+const chooseBtn = document.getElementById("chooseBtn");
+
+if (chooseBtn) {
+  chooseBtn.addEventListener("click", showHome);
+}
 
 
-    document
-      .getElementById("clearBtn")
-      .addEventListener(
-        "click",
-        clearChat
-      );
+const clearBtn = document.getElementById("clearBtn");
+
+if (clearBtn) {
+  clearBtn.addEventListener("click", clearChat);
+}
 
   }
 );
