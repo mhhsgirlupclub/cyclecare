@@ -568,8 +568,6 @@ function clearChat() {
 
 }
 
-document.getElementById("clearBtn").addEventListener("click", clearChat);
-
 /* -------------------------
    START WEBSITE
 ------------------------- */
@@ -578,15 +576,11 @@ document.addEventListener(
   "DOMContentLoaded",
   function () {
 
-    console.log(
-      "CycleCare JavaScript loaded successfully."
-    );
+    console.log("CycleCare JavaScript loaded successfully.");
 
 
     const chatbotButtons =
-      document.querySelectorAll(
-        "[data-bot]"
-      );
+      document.querySelectorAll("[data-bot]");
 
 
     console.log(
@@ -606,8 +600,7 @@ document.addEventListener(
               button.getAttribute(
                 "data-bot"
               );
-
-
+            
             openBot(bot);
 
           }
