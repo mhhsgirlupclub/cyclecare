@@ -19,7 +19,7 @@ const BOT_CONFIG = {
       "Ask about the various kinds of pain felt during periods, such as cramps, headaches, lower back pain, etc.",
     file: "pain_fixed.json",
     examples: [
-      "How common is period pain among women?",
+      "Does lifestyle affect period pain?",
       "What is a period headache?",
       "What lifestyle factors can worsen period pain?"
     ]
