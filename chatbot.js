@@ -568,6 +568,7 @@ function clearChat() {
 
 }
 
+document.getElementById("clearBtn").addEventListener("click", clearChat);
 
 /* -------------------------
    START WEBSITE
