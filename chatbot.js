@@ -21,7 +21,7 @@ const BOT_CONFIG = {
     examples: [
       "How common is period pain among women?",
       "What is a period headache?",
-      "When is period pain more serious than normal?"
+      "What lifestyle factors can worsen period pain?"
     ]
   },
 
