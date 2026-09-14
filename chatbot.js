@@ -347,12 +347,6 @@ async function openBot(botKey) {
 
 
   document
-    .getElementById("status")
-    .textContent =
-    "Loading questions...";
-
-
-  document
     .getElementById("messages")
     .innerHTML = "";
 
@@ -558,9 +552,7 @@ function showHome() {
 
 function clearChat() {
 
-  document
-    .getElementById("messages")
-    .innerHTML = "";
+  document.getElementById("messages").innerHTML = "";
 
 
   if (currentBot) {
