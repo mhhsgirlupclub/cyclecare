@@ -39,7 +39,7 @@ input{border:1px solid var(--border);border-radius:15px;padding:13px 14px;outlin
 .team-nav {
   display: flex;
   align-items: center;
-  gap: 100px;
+  gap: 50px;
 }
 
 .team-link {
