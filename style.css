@@ -36,26 +36,8 @@ input{border:1px solid var(--border);border-radius:15px;padding:13px 14px;outlin
 .send{border:0;border-radius:15px;background:var(--accent);color:#fff;padding:0 20px;font-weight:800}
 @media(max-width:850px){.grid,.layout{grid-template-columns:1fr}.side{order:2}}
 
-.team-link {
-  display: inline-block;
 
-  padding: 10px 16px;
 
-  border-radius: 12px;
-
-  color: #8f5a82;
-  background: #f8f0f6;
-
-  text-decoration: none;
-  font-weight: 700;
-
-  transition: 0.2s ease;
-}
-
-.team-link:hover {
-  background: #f0e1ec;
-  transform: translateY(-1px);
-}
 
 /* ========================================
    MEET THE TEAM PAGE
