@@ -35,3 +35,219 @@ form{display:grid;grid-template-columns:1fr auto;gap:10px;padding:15px;border-to
 input{border:1px solid var(--border);border-radius:15px;padding:13px 14px;outline:none}
 .send{border:0;border-radius:15px;background:var(--accent);color:#fff;padding:0 20px;font-weight:800}
 @media(max-width:850px){.grid,.layout{grid-template-columns:1fr}.side{order:2}}
+
+/* ========================================
+   MEET THE TEAM PAGE
+======================================== */
+
+.team-hero{
+  padding:45px 0 42px;
+  text-align:center
+}
+
+.team-hero .lead{
+  max-width:760px
+}
+
+
+/* NAVIGATION LINK */
+
+header a{
+  text-decoration:none;
+  color:inherit
+}
+
+.team-nav{
+  display:flex;
+  gap:10px;
+  align-items:center
+}
+
+
+/* TEAM MEMBER CARDS */
+
+.team-members{
+  padding-bottom:70px
+}
+
+.team-leader{
+  display:grid;
+  grid-template-columns:280px 1fr;
+  overflow:hidden;
+  padding:0;
+  margin-bottom:22px;
+  border:2px solid var(--border)
+}
+
+.team-photo-wrap{
+  position:relative;
+  background:var(--soft);
+  min-height:340px
+}
+
+.team-photo{
+  width:100%;
+  height:100%;
+  display:block;
+  object-fit:cover
+}
+
+.leader-label{
+  position:absolute;
+  left:18px;
+  bottom:18px;
+  background:var(--accent);
+  color:#fff;
+  padding:8px 13px;
+  border-radius:999px;
+  font-size:.78rem;
+  font-weight:800
+}
+
+.team-info{
+  padding:28px
+}
+
+.team-info h2{
+  margin:0 0 5px;
+  font-size:1.65rem
+}
+
+.team-role{
+  color:var(--accent2);
+  font-weight:800;
+  margin:0 0 14px
+}
+
+.team-details{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin-bottom:22px
+}
+
+.team-details span{
+  background:var(--soft);
+  color:var(--muted);
+  padding:7px 10px;
+  border-radius:10px;
+  font-size:.78rem;
+  font-weight:700
+}
+
+.team-info h3{
+  margin:19px 0 7px;
+  font-size:.95rem
+}
+
+.team-info p{
+  color:var(--muted);
+  line-height:1.6;
+  margin-top:6px
+}
+
+
+/* HOPE SECTION */
+
+.team-hope{
+  background:var(--soft);
+  border-radius:16px;
+  padding:16px 18px;
+  margin-top:20px
+}
+
+.team-hope h3{
+  margin-top:0;
+  color:var(--accent2)
+}
+
+.team-hope p{
+  margin-bottom:0;
+  color:var(--text);
+  font-style:italic
+}
+
+
+/* THREE RESEARCHER CARDS */
+
+.team-grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:18px
+}
+
+.team-member{
+  padding:0;
+  overflow:hidden;
+  display:flex;
+  flex-direction:column
+}
+
+.team-member .team-photo-wrap{
+  height:280px;
+  min-height:280px
+}
+
+.team-member .team-info{
+  display:flex;
+  flex-direction:column;
+  flex:1
+}
+
+.team-member .team-hope{
+  margin-top:auto
+}
+
+
+/* BOTTOM BUTTON */
+
+.team-bottom{
+  text-align:center;
+  margin-top:35px
+}
+
+.team-bottom .ghost{
+  display:inline-block;
+  text-decoration:none;
+  color:var(--text)
+}
+
+
+/* RESPONSIVE */
+
+@media(max-width:850px){
+
+  .team-leader{
+    grid-template-columns:1fr
+  }
+
+  .team-leader .team-photo-wrap{
+    height:420px
+  }
+
+  .team-grid{
+    grid-template-columns:1fr
+  }
+
+  .team-member .team-photo-wrap{
+    height:420px
+  }
+
+}
+
+@media(max-width:500px){
+
+  .team-hero{
+    padding-top:30px
+  }
+
+  .team-info{
+    padding:22px
+  }
+
+  .team-leader .team-photo-wrap,
+  .team-member .team-photo-wrap{
+    height:350px
+  }
+
+}
