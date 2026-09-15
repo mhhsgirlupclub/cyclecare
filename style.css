@@ -427,3 +427,57 @@ header a{
   }
 
 }
+
+.award-section{
+  padding:65px 0 55px;
+}
+
+.award-content{
+  max-width:850px;
+  margin:0 auto;
+
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:30px;
+
+  padding:22px 28px;
+
+  background:var(--surface);
+
+  border:1px solid var(--border);
+  border-radius:24px;
+
+  box-shadow:0 12px 32px rgba(89,51,75,.06);
+}
+
+.award-logo{
+  width:190px;
+  height:auto;
+  display:block;
+  flex-shrink:0;
+}
+
+.award-text{
+  margin:0;
+  text-align:left;
+  color:var(--muted);
+  line-height:1.6;
+}
+
+@media(max-width:650px){
+
+  .award-content{
+    flex-direction:column;
+    gap:18px;
+    text-align:center;
+  }
+
+  .award-logo{
+    width:180px;
+  }
+
+  .award-text{
+    text-align:center;
+  }
+}
